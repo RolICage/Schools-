@@ -1,0 +1,36 @@
+<div class="wikidoc"><h2>First read <a href="https://webdotajax.codeplex.com/wikipage?title=Setup&referringTitle=Ajax%20Functionality%20%28using%20interfaces%20and%20Inversion%20of%20Control%29">Setup</a> and  <a href="https://webdotajax.codeplex.com/wikipage?title=Ajax%20Functionality&referringTitle=Ajax%20Functionality%20%28using%20interfaces%20and%20Inversion%20of%20Control%29">Ajax Functionality</a>.</h2>
+Web.Ajax supports Inversion of Control, allowing you to put your Ajax methods into interfaces.<br />You can map interfaces to implementations in your Global.asax allowing you to write testable Ajax methods rather than relying on static methods.<br /><br /><div style="color:Black;background-color:White;"><pre>
+<span style="color:Blue;">using</span> Web.Ajax;
+
+<span style="color:Blue;">public</span> <span style="color:Blue;">interface</span> IAjaxMethods
+{
+    [Ajax(Name=<span style="color:#A31515;">&quot;Ajax.SampleMethod&quot;</span>)]    <span style="color:Green;">//The Name identifies the method on the client</span>
+    <span style="color:Blue;">int</span> SampleMethod(<span style="color:Blue;">int</span> a, <span style="color:Blue;">int</span> b)
+}
+
+<span style="color:Blue;">public</span> <span style="color:Blue;">class</span> AjaxMethods : IAjaxMethods
+{
+    <span style="color:Blue;">public</span> <span style="color:Blue;">int</span> SampleMethod(<span style="color:Blue;">int</span> a, <span style="color:Blue;">int</span> b)
+    {
+        <span style="color:Blue;">return</span> a*b;
+    }
+}
+</pre></div><br />In your Global.asax<br /><div style="color:Black;background-color:White;"><pre>
+<span style="color:Blue;">public</span> <span style="color:Blue;">class</span> Global : System.Web.HttpApplication
+{
+    <span style="color:Blue;">protected</span> <span style="color:Blue;">void</span> Application_Start(<span style="color:Blue;">object</span> sender, EventArgs e)
+    {
+        Web.Ajax.InversionOfControl.Container.Instance.Map&lt;IAjaxMethods, AjaxMethods&gt;();
+    }
+...
+</pre></div><br />In your page class you register the interface containing the Ajax methods<br /><div style="color:Black;background-color:White;"><pre>
+<span style="color:Blue;">using</span> Web.Ajax;
+
+<span style="color:Blue;">public</span> <span style="color:Blue;">partial</span> <span style="color:Blue;">class</span> Default : Web.Ajax.Page
+{
+    <span style="color:Blue;">protected</span> <span style="color:Blue;">void</span> Page_Load(<span style="color:Blue;">object</span> sender, EventArgs e)
+    {
+        Ajax.RegisterAjaxMethods(<span style="color:Blue;">this</span>, <span style="color:Blue;">typeof</span>(IAjaxMethods));
+    }
+}
+</pre></div></div><div class="ClearBoth"></div>

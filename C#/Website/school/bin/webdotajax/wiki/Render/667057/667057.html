@@ -1,0 +1,51 @@
+<div class="wikidoc"><h1>First read <a href="https://webdotajax.codeplex.com/wikipage?title=Setup&referringTitle=Ajax%20Grid">Setup</a>.</h1>
+The Ajax Grid is an Asp.Net control that renders a table dynamically on the client after getting the data using an AJAX request from the server.<br /><br />Features:
+<ul><li>Paging</li>
+<li>Sorting</li>
+<li>Options Popup Menu</li></ul>
+
+<h1>A simple Ajax Grid sample</h1>
+In your .aspx file<br /><div style="color:Black;background-color:White;"><pre>
+<span style="color:Blue;">&lt;</span><span style="color:#A31515;">c</span><span style="color:Blue;">:</span><span style="color:#A31515;">AjaxGrid</span> <span style="color:Red;">runat</span><span style="color:Blue;">=</span><span style="color:Blue;">&quot;server&quot;</span> <span style="color:Red;">ID</span><span style="color:Blue;">=</span><span style="color:Blue;">&quot;MyFirstGrid&quot;</span> 
+	<span style="color:Red;">JavascriptId</span><span style="color:Blue;">=</span><span style="color:Blue;">&quot;MyFirstGrid&quot;</span>
+	<span style="color:Red;">NoData</span><span style="color:Blue;">=</span><span style="color:Blue;">&quot;No Data found&quot;</span>
+	<span style="color:Red;">RowsPerPage</span><span style="color:Blue;">=</span><span style="color:Blue;">&quot;5&quot;</span><span style="color:Blue;">&gt;</span>
+		<span style="color:Blue;">&lt;</span><span style="color:#A31515;">c</span><span style="color:Blue;">:</span><span style="color:#A31515;">GridColumn</span> <span style="color:Red;">runat</span><span style="color:Blue;">=</span><span style="color:Blue;">&quot;server&quot;</span> <span style="color:Red;">Name</span><span style="color:Blue;">=</span><span style="color:Blue;">&quot;First Name&quot;</span> <span style="color:Red;">Binding</span><span style="color:Blue;">=</span><span style="color:Blue;">&quot;FirstName&quot;</span> <span style="color:Blue;">/&gt;</span>
+		<span style="color:Blue;">&lt;</span><span style="color:#A31515;">c</span><span style="color:Blue;">:</span><span style="color:#A31515;">GridColumn</span> <span style="color:Red;">runat</span><span style="color:Blue;">=</span><span style="color:Blue;">&quot;server&quot;</span> <span style="color:Red;">Name</span><span style="color:Blue;">=</span><span style="color:Blue;">&quot;Last Name&quot;</span> <span style="color:Red;">Binding</span><span style="color:Blue;">=</span><span style="color:Blue;">&quot;LastName&quot;</span> <span style="color:Blue;">/&gt;</span>
+		<span style="color:Blue;">&lt;</span><span style="color:#A31515;">c</span><span style="color:Blue;">:</span><span style="color:#A31515;">GridColumn</span> <span style="color:Red;">runat</span><span style="color:Blue;">=</span><span style="color:Blue;">&quot;server&quot;</span> <span style="color:Red;">Name</span><span style="color:Blue;">=</span><span style="color:Blue;">&quot;Age&quot;</span> <span style="color:Red;">Binding</span><span style="color:Blue;">=</span><span style="color:Blue;">&quot;Age&quot;</span> <span style="color:Blue;">/&gt;</span>
+<span style="color:Blue;">&lt;/</span><span style="color:#A31515;">c</span><span style="color:Blue;">:</span><span style="color:#A31515;">AjaxGrid</span><span style="color:Blue;">&gt;</span>
+</pre></div><br />In the code behind for your page (the .aspx.cs file)<br /><div style="color:Black;background-color:White;"><pre>
+<span style="color:Blue;">using</span> Web.Ajax;
+<span style="color:Blue;">using</span> Web.Ajax.Controls;
+
+<span style="color:Blue;">public</span> <span style="color:Blue;">partial</span> <span style="color:Blue;">class</span> Default : Web.Ajax.Page
+{
+    <span style="color:Green;">/*
+    The Data method must:
+        1. be a static method
+        2. take one parameter of type GridInfo
+        3. return a DataTable
+    */</span>
+    <span style="color:Blue;">public</span> <span style="color:Blue;">static</span> System.Data.DataTable GetGrid(GridInfo gi)
+    {
+	gi.NewTable();
+	gi.AddColumns(<span style="color:#A31515;">&quot;FirstName&quot;</span>, <span style="color:#A31515;">&quot;LastName&quot;</span>, <span style="color:#A31515;">&quot;Age&quot;</span>);
+
+	gi.AddRow(<span style="color:#A31515;">&quot;John&quot;</span>, <span style="color:#A31515;">&quot;Murphy&quot;</span>, <span style="color:#A31515;">&quot;25&quot;</span>);
+	gi.AddRow(<span style="color:#A31515;">&quot;Peter&quot;</span>, <span style="color:#A31515;">&quot;Jones&quot;</span>, <span style="color:#A31515;">&quot;40&quot;</span>);
+	gi.AddRow(<span style="color:#A31515;">&quot;Ann&quot;</span>, <span style="color:#A31515;">&quot;Murphy&quot;</span>, <span style="color:#A31515;">&quot;39&quot;</span>);
+	gi.AddRow(<span style="color:#A31515;">&quot;Michael&quot;</span>, <span style="color:#A31515;">&quot;Johnston&quot;</span>, <span style="color:#A31515;">&quot;18&quot;</span>);
+	gi.AddRow(<span style="color:#A31515;">&quot;James&quot;</span>, <span style="color:#A31515;">&quot;Norton&quot;</span>, <span style="color:#A31515;">&quot;25&quot;</span>);
+	gi.AddRow(<span style="color:#A31515;">&quot;Homer&quot;</span>, <span style="color:#A31515;">&quot;Simpson&quot;</span>, <span style="color:#A31515;">&quot;42&quot;</span>);
+	gi.AddRow(<span style="color:#A31515;">&quot;Eric&quot;</span>, <span style="color:#A31515;">&quot;Cartman&quot;</span>, <span style="color:#A31515;">&quot;8&quot;</span>);
+
+	<span style="color:Blue;">return</span> gi.GetTable();
+    }
+
+    <span style="color:Green;">//Assign the Grid&#39;s DataMethod in the Page_Load </span>
+    <span style="color:Blue;">protected</span> <span style="color:Blue;">void</span> Page_Load(<span style="color:Blue;">object</span> sender, EventArgs e)
+    {
+	MyFirstGrid.DataMethod = GetGrid;
+    } 
+}
+</pre></div><br /></div><div class="ClearBoth"></div>

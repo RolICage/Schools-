@@ -1,0 +1,149 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    list-style: none;
+    text-decoration: none;
+    background-image: url('Images/new background.jpg');
+    cursor: url(Images/cursor-16.png),pointer;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+@font-face {
+    font-family: 'ArabicFont';
+    src: url(fonts/AR.ttf);
+    font-style: normal;
+    font-weight: 100;
+}
+
+
+.middle {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.menu {
+    width: 300px;
+    border-radius: 8px;
+    overflow: hidden;
+}
+li {
+    font-family:'Comic Sans MS';
+    font-size:18px;
+    color: black;
+    border-top: 1px solid rgba(255, 187, 0,0.10);
+    overflow: hidden;
+}
+.btn {
+    font-family: ArabicFont;
+    display: block;
+    padding: 16px 20px;
+    background: rgb(255, 187, 0);
+    color: black;
+    position: relative;
+}
+    .btn:before {
+        content: "";
+        position: absolute;
+        width: 14px;
+        height: 14px;
+        background: rgb(255, 187, 0);
+        left: 20px;
+        bottom: -7px;
+        transform: rotate(45deg);
+    }
+    .btn i {
+       color:rgb(73, 71, 71);
+        margin-right: 10px;
+    }
+.smenu {
+    background: #333;
+    overflow: hidden;
+    transition: max-height 0.3s;
+    max-height: 0;
+}
+    .smenu a {
+        display: block;
+        padding: 16px 26px;
+        color: #f6be00;
+        font-size: 14px;
+        margin: 4px 0;
+        position: relative;
+    }
+        .smenu a:before {    
+            content: "";
+            position: absolute;
+            width: 6px;
+            height: 100%;
+            background: rgb(255, 216, 0);
+            left: 0;
+            top: 0;
+            transition: 0.3s;
+            opacity: 0;
+        }
+
+        .smenu a:hover:before {
+            opacity: 1;
+        }
+
+li:target .smenu {
+    max-height: 10em;
+}
+/*-------------------------------------------------------photo wave*/
+section .wave {
+    position: absolute;
+    width: 100%;
+    height: 143px;
+    bottom: 0;
+    left: 0;
+    opacity: 0.4;
+    background-image: url('Images/wave.png');
+    animation: animate 10s linear infinite;
+}
+
+    section .wave:before {
+        content: '';
+        width: 100%;
+        height: 143px;
+        background-image: url('Images/wave.png');
+        position: absolute;
+        top: 0;
+        left: 0;
+        opacity: 0.3;
+        animation-delay: -5s;
+        animation: animate 20s linear infinite;
+    }
+
+    section .wave:after {
+        content: '';
+        width: 100%;
+        height: 143px;
+        background-image: url('Images/wave.png');
+        position: absolute;
+        top: 0;
+        left: 0;
+        opacity: 0.4;
+        animation: animate-reverse 10s linear infinite;
+    }
+
+@keyframes animate {
+    0% {
+        background-position: 0;
+    }
+
+    100% {
+        background-position: 1360px;
+    }
+}
+
+@keyframes animate-reverse {
+    0% {
+        background-position: 1360px;
+    }
+
+    100% {
+        background-position: 0;
+    }
+}
+

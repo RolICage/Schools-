@@ -1,0 +1,40 @@
+<div class="wikidoc"><h1>First read <a href="https://webdotajax.codeplex.com/wikipage?title=Setup&referringTitle=Popup%20Window">Setup</a>.</h1>
+The Popup Window is an Asp.Net control for simulating a windows style popup on a web page.<br /><br />Features:
+<ul><li>Supports modal and non modal popup windows</li>
+<li>Content can be another page (rendered in an iframe)</li></ul>
+<br />A simple sample<br /><div style="color:Black;background-color:White;"><pre>
+<span style="color:Blue;">&lt;</span><span style="color:#A31515;">input</span> <span style="color:Red;">type</span><span style="color:Blue;">=</span><span style="color:Blue;">&quot;button&quot;</span> <span style="color:Red;">onclick</span><span style="color:Blue;">=</span><span style="color:Blue;">&quot;MyPopupWindow.Show();&quot;</span> <span style="color:Red;">value</span><span style="color:Blue;">=</span><span style="color:Blue;">&quot;Show Popup Window&quot;</span> <span style="color:Blue;">/&gt;</span>
+
+<span style="color:Blue;">&lt;</span><span style="color:#A31515;">c</span><span style="color:Blue;">:</span><span style="color:#A31515;">Popup</span> <span style="color:Red;">runat</span><span style="color:Blue;">=</span><span style="color:Blue;">&quot;server&quot;</span> <span style="color:Red;">ID</span><span style="color:Blue;">=</span><span style="color:Blue;">&quot;MyPopupWindow&quot;</span> <span style="color:Red;">JavascriptId</span><span style="color:Blue;">=</span><span style="color:Blue;">&quot;MyPopupWindow&quot;</span><span style="color:Blue;">&gt;</span>
+    <span style="color:Blue;">&lt;</span><span style="color:#A31515;">title</span><span style="color:Blue;">&gt;</span>
+        <span style="color:Blue;">&lt;</span><span style="color:#A31515;">left</span><span style="color:Blue;">&gt;</span>Popup Title<span style="color:Blue;">&lt;/</span><span style="color:#A31515;">left</span><span style="color:Blue;">&gt;</span>
+	<span style="color:Blue;">&lt;</span><span style="color:#A31515;">right</span><span style="color:Blue;">&gt;</span><span style="color:Blue;">&lt;/</span><span style="color:#A31515;">right</span><span style="color:Blue;">&gt;</span>
+    <span style="color:Blue;">&lt;/</span><span style="color:#A31515;">title</span><span style="color:Blue;">&gt;</span>
+    <span style="color:Blue;">&lt;</span><span style="color:#A31515;">div</span> <span style="color:Red;">style</span><span style="color:Blue;">=</span><span style="color:Blue;">&quot;width: 500px; height:200px;&quot;</span><span style="color:Blue;">&gt;</span>
+ 	Put the popup window content here!
+    <span style="color:Blue;">&lt;/</span><span style="color:#A31515;">div</span><span style="color:Blue;">&gt;</span>
+<span style="color:Blue;">&lt;/</span><span style="color:#A31515;">c</span><span style="color:Blue;">:</span><span style="color:#A31515;">Popup</span><span style="color:Blue;">&gt;</span>
+</pre></div><br /><br />Loading another page sample<br /><div style="color:Black;background-color:White;"><pre>
+<span style="color:Blue;">&lt;</span><span style="color:#A31515;">input</span> <span style="color:Red;">type</span><span style="color:Blue;">=</span><span style="color:Blue;">&quot;button&quot;</span> <span style="color:Red;">onclick</span><span style="color:Blue;">=</span><span style="color:Blue;">&quot;ShowPopup();&quot;</span> <span style="color:Red;">value</span><span style="color:Blue;">=</span><span style="color:Blue;">&quot;Show Popup Window&quot;</span> <span style="color:Blue;">/&gt;</span>
+
+<span style="color:Blue;">&lt;</span><span style="color:#A31515;">c</span><span style="color:Blue;">:</span><span style="color:#A31515;">Popup</span> <span style="color:Red;">runat</span><span style="color:Blue;">=</span><span style="color:Blue;">&quot;server&quot;</span> <span style="color:Red;">ID</span><span style="color:Blue;">=</span><span style="color:Blue;">&quot;MyPopupWindow&quot;</span> <span style="color:Red;">JavascriptId</span><span style="color:Blue;">=</span><span style="color:Blue;">&quot;MyPopupWindow&quot;</span><span style="color:Blue;">&gt;</span>
+    <span style="color:Blue;">&lt;</span><span style="color:#A31515;">title</span><span style="color:Blue;">&gt;</span>
+        <span style="color:Blue;">&lt;</span><span style="color:#A31515;">left</span><span style="color:Blue;">&gt;</span><span style="color:Blue;">&lt;/</span><span style="color:#A31515;">left</span><span style="color:Blue;">&gt;</span>
+	<span style="color:Blue;">&lt;</span><span style="color:#A31515;">right</span><span style="color:Blue;">&gt;</span><span style="color:Blue;">&lt;/</span><span style="color:#A31515;">right</span><span style="color:Blue;">&gt;</span>
+    <span style="color:Blue;">&lt;/</span><span style="color:#A31515;">title</span><span style="color:Blue;">&gt;</span>
+<span style="color:Blue;">&lt;/</span><span style="color:#A31515;">c</span><span style="color:Blue;">:</span><span style="color:#A31515;">Popup</span><span style="color:Blue;">&gt;</span>
+
+<span style="color:Blue;">&lt;</span><span style="color:#A31515;">script</span> <span style="color:Red;">type</span><span style="color:Blue;">=</span><span style="color:Blue;">&quot;text/javascript&quot;</span><span style="color:Blue;">&gt;</span>
+<span style="color:Blue;">function</span> ShowPopup() {
+	MyPopupWindow.ShowPage(
+		<span style="color:#A31515;">&#39;http://webdotajax.codeplex.com&#39;</span>, <span style="color:Green;">//url to load</span>
+		<span style="color:#A31515;">&#39;Popup window Title&#39;</span>,       <span style="color:Green;">//title</span>
+		800,                        <span style="color:Green;">//width</span>
+		800,                        <span style="color:Green;">//height</span>
+		<span style="color:Blue;">function</span> () {               <span style="color:Green;">//function to call when popup window is closed</span>
+			alert(<span style="color:#A31515;">&#39;Popup window has been closed!&#39;</span>);
+		}
+	);
+}
+<span style="color:Blue;">&lt;/</span><span style="color:#A31515;">script</span><span style="color:Blue;">&gt;</span>
+</pre></div><br /></div><div class="ClearBoth"></div>

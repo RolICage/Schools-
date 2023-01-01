@@ -1,0 +1,19 @@
+[
+  {
+    "Id": "0",
+    "Name": "Web.Ajax.dll",
+    "DevelopmentStatus": "Stable",
+    "Description": "First Release of Ajax functionality",
+    "ReleasedDatge": "0001-01-01T00:00:00",
+    "ModifiedDate": "2013-01-12T06:45:42.47-08:00",
+    "Files": [
+      {
+        "Id": "f32b2d42-bd0c-4da7-bba8-a6f9becad1ae",
+        "FileName": "Web.Ajax.dll",
+        "Url": "./0/f32b2d42-bd0c-4da7-bba8-a6f9becad1ae",
+        "Type": "Application",
+        "UploadDate": "2013-01-12T06:45:42.3-08:00"
+      }
+    ]
+  }
+]

@@ -1,0 +1,110 @@
+<div class="wikidoc"><h2>First read <a href="https://webdotajax.codeplex.com/wikipage?title=Setup&referringTitle=Ajax%20Functionality">Setup</a>.</h2>
+<h2>Creating a Server Side AJAX method (in the .aspx.cs file)</h2><ol><li>In the code behind for your .aspx page, change your page to inherit from Web.Ajax.Page</li>
+<li>Add a static Method to your page class and annotate with the <a href="https://webdotajax.codeplex.com/wikipage?title=Ajax&referringTitle=Ajax%20Functionality">Ajax</a> attribute</li></ol>
+<div style="color:Black;background-color:White;"><pre>
+<span style="color:Blue;">using</span> Web.Ajax;
+
+<span style="color:Blue;">public</span> <span style="color:Blue;">partial</span> <span style="color:Blue;">class</span> Default : Web.Ajax.Page
+{
+    [Ajax(Name=<span style="color:#A31515;">&quot;Ajax.SampleMethod&quot;</span>)]    <span style="color:Green;">//The Name identifies the method on the client</span>
+    <span style="color:Blue;">public</span> <span style="color:Blue;">static</span> <span style="color:Blue;">int</span> SampleMethod(<span style="color:Blue;">int</span> a, <span style="color:Blue;">int</span> b)
+    {
+        <span style="color:Blue;">return</span> a*b;
+    }
+}
+</pre></div>
+<h2>Calling the AJAX method from the client (in the .aspx file)</h2><ol><li>Add a button with the onclick event=&quot;ClickMe();&quot;</li></ol>
+<div style="color:Black;background-color:White;"><pre>
+<span style="color:Blue;">&lt;</span><span style="color:#A31515;">input</span> <span style="color:Red;">type</span><span style="color:Blue;">=</span><span style="color:Blue;">&quot;button&quot;</span> <span style="color:Red;">onclick</span><span style="color:Blue;">=</span><span style="color:Blue;">&quot;ClickMe();&quot;</span> <span style="color:Red;">value</span><span style="color:Blue;">=</span><span style="color:Blue;">&quot;Call Ajax Method&quot;</span> <span style="color:Blue;">/&gt;</span>
+</pre></div><ol><li>Add the following Javascript:</li></ol>
+<div style="color:Black;background-color:White;"><pre>
+&lt;script type=<span style="color:#A31515;">&quot;text/javascript&quot;</span>&gt;
+    <span style="color:Blue;">function</span> onAjaxComplete(r)
+    {
+         alert(<span style="color:#A31515;">&#39;Data from the server: &#39;</span> + r);
+    }
+
+    <span style="color:Blue;">function</span> ClickMe()
+    {
+          <span style="color:Green;">//An extra parameter is available on the client providing a javascript method</span>
+          <span style="color:Green;">//to call once the ajax request has completed.</span>
+          Ajax.SampleMethod(5, 10, onAjaxComplete);
+    }
+&lt;/script&gt;
+</pre></div><br /><br />
+<h2>Error Handling Design Pattern</h2>Using the library an AJAX method can return any complex type. Whatever object is returned by the server side AJAX method gets passed to the oncomplete method on the client.<br /> <br />However for error handling design consistency, there is a class supplied in the library called SimpleResonse that you can use.<br /><br />On the Server side<br /><div style="color:Black;background-color:White;"><pre>
+<span style="color:Green;">//Sample Server Error A</span>
+[Ajax(Name=<span style="color:#A31515;">&quot;Ajax.SampleMethod&quot;</span>)]    
+<span style="color:Blue;">public</span> <span style="color:Blue;">static</span> SimpleResponse SampleMethod(<span style="color:Blue;">int</span> a, <span style="color:Blue;">int</span> b)
+{
+    <span style="color:Blue;">var</span> res = <span style="color:Blue;">new</span> SimpleResponse();
+    <span style="color:Blue;">try</span>
+    {
+        <span style="color:Green;">//uncomment the following line to see how an exception is handled</span>
+        <span style="color:Green;">//throw new Exception(&quot;Oops an error occurred on the server!&quot;);</span>
+        res.Data = a * b;
+    }
+    <span style="color:Blue;">catch</span> (Exception e)
+    {
+        res.Success = <span style="color:Blue;">false</span>;
+        res.Message = e.Message;
+    }
+    <span style="color:Blue;">return</span> res;
+}
+</pre></div>On the Client side<br /><div style="color:Black;background-color:White;"><pre>
+&lt;script type=<span style="color:#A31515;">&quot;text/javascript&quot;</span>&gt;
+   <span style="color:Blue;">function</span> onAjaxComplete(r) 
+   {
+        <span style="color:Blue;">if</span> (!r.Success) 
+        {
+	    alert(r.Message);
+	    <span style="color:Blue;">return</span>;
+	}
+	alert(<span style="color:#A31515;">&#39;Data from the server:&#39;</span> + r.Data);
+    }
+
+    <span style="color:Blue;">function</span> ClickMe()
+    {
+          <span style="color:Green;">//An extra parameter is available on the client providing a javascript method</span>
+          <span style="color:Green;">//to call once the ajax request has completed.</span>
+          Ajax.SampleMethod(5, 10, onAjaxComplete);
+    }
+&lt;/script&gt;
+</pre></div><br /><br />If you want to use this pattern for error handling there is a static method on the SimpleResponse class which takes a delegate. Using this can save a lot of time and code typing try catch blocks. Whatever is returned by the delegate is set on the Data property of the SimpleResponse.<br /><div style="color:Black;background-color:White;"><pre>
+<span style="color:Green;">//Sample Server Error B, functionallly equilavent to &#39;Sample Server Error A&#39; above</span>
+<span style="color:Green;">//but uses a shorter syntax</span>
+[Ajax(Name=<span style="color:#A31515;">&quot;Ajax.SampleMethod&quot;</span>)]    
+<span style="color:Blue;">public</span> <span style="color:Blue;">static</span> SimpleResponse SampleMethod(<span style="color:Blue;">int</span> a, <span style="color:Blue;">int</span> b)
+{
+    <span style="color:Blue;">return</span> SimpleResponse.Get(() =&gt; {
+        <span style="color:Green;">//uncomment the following line to see how an exception is handled</span>
+        <span style="color:Green;">//throw new Exception(&quot;Oops an error occurred on the server!&quot;);</span>
+        <span style="color:Blue;">return</span> a * b;
+    });
+}
+</pre></div><br />
+<h2>Calling AJAX methods in another class</h2>This sample shows how to register AJAX methods from another class on the page. (useful if you want to put your AJAX methods in another dll)
+<ol><li>Your page class must inherit from Web.Ajax.Page</li>
+<li>Call Ajax.RegisterAjaxMethods in the Page_Load method to register all AJAX methods on the type.</li></ol>
+<b>Note:</b> The AJAX method name must be unique on the class (i.e. operator overloading is not supported for AJAX methods)<br /><div style="color:Black;background-color:White;"><pre>
+<span style="color:Blue;">using</span> Web.Ajax;
+
+<span style="color:Blue;">public</span> <span style="color:Blue;">class</span> AjaxMethods
+{
+    [Ajax(Name = <span style="color:#A31515;">&quot;Ajax.SampleMethod&quot;</span>)]    
+    <span style="color:Blue;">public</span> <span style="color:Blue;">static</span> SimpleResponse SampleMethod(<span style="color:Blue;">int</span> a, <span style="color:Blue;">int</span> b)
+    {
+        <span style="color:Blue;">return</span> SimpleResponse.Get(() =&gt; {
+	    <span style="color:Blue;">return</span> a * b;
+	});
+    }
+}
+
+<span style="color:Blue;">public</span> <span style="color:Blue;">partial</span> <span style="color:Blue;">class</span> Default : Web.Ajax.Page
+{
+    <span style="color:Blue;">protected</span> <span style="color:Blue;">void</span> Page_Load(<span style="color:Blue;">object</span> sender, EventArgs e)
+    {
+        Ajax.RegisterAjaxMethods(<span style="color:Blue;">this</span>, <span style="color:Blue;">typeof</span>(AjaxMethods));
+    }
+}
+</pre></div><br /><br /><br /> </div><div class="ClearBoth"></div>

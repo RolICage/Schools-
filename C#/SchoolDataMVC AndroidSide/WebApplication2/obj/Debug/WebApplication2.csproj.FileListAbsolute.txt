@@ -1,0 +1,830 @@
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\bin\WebApplication2.dll
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\bin\roslyn\csc.exe
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\bin\roslyn\csc.exe.config
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\bin\roslyn\csc.rsp
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\bin\roslyn\csi.exe
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\bin\roslyn\csi.exe.config
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\bin\roslyn\csi.rsp
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Managed.Core.targets
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\bin\roslyn\System.AppContext.dll
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\bin\roslyn\System.Console.dll
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\bin\roslyn\System.Diagnostics.StackTrace.dll
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\bin\roslyn\System.IO.Compression.dll
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\bin\roslyn\System.IO.FileSystem.dll
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\bin\roslyn\System.IO.Pipes.dll
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\bin\roslyn\System.Security.AccessControl.dll
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\bin\roslyn\System.Security.Claims.dll
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\bin\roslyn\System.Security.Principal.Windows.dll
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\bin\roslyn\System.Text.Encoding.CodePages.dll
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\bin\roslyn\System.ValueTuple.dll
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\bin\roslyn\System.Xml.ReaderWriter.dll
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XmlDocument.dll
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XPath.dll
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XPath.XDocument.dll
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\bin\roslyn\vbc.exe
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\bin\roslyn\vbc.exe.config
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\bin\roslyn\vbc.rsp
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\bin\Antlr3.Runtime.dll
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\bin\Newtonsoft.Json.dll
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\bin\System.Diagnostics.DiagnosticSource.dll
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\bin\System.Web.Helpers.dll
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\bin\System.Web.Mvc.dll
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\bin\System.Web.Optimization.dll
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\bin\System.Web.Razor.dll
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\bin\System.Web.WebPages.Deployment.dll
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\bin\System.Web.WebPages.dll
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\bin\System.Web.WebPages.Razor.dll
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\bin\WebGrease.dll
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\bin\System.Web.Helpers.xml
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\bin\System.Web.Mvc.xml
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\bin\System.Web.Optimization.xml
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\bin\System.Web.Razor.xml
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\bin\System.Web.WebPages.xml
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\bin\System.Web.WebPages.Deployment.xml
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\bin\System.Web.WebPages.Razor.xml
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\bin\Newtonsoft.Json.xml
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\bin\Antlr3.Runtime.pdb
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\bin\System.Diagnostics.DiagnosticSource.xml
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojAssemblyReference.cache
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CoreCompileInputs.cache
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CopyComplete
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+g:\users\rollcage x\source\repos\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\bin\WebApplication2.dll.config
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\bin\WebApplication2.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\bin\WebApplication2.pdb
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\bin\roslyn\csc.exe
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\bin\roslyn\csc.exe.config
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\bin\roslyn\csc.rsp
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\bin\roslyn\csi.exe
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\bin\roslyn\csi.exe.config
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\bin\roslyn\csi.rsp
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\bin\roslyn\Microsoft.Managed.Core.targets
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\bin\roslyn\System.AppContext.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\bin\roslyn\System.Console.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\bin\roslyn\System.IO.Compression.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\bin\roslyn\System.IO.FileSystem.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\bin\roslyn\System.IO.Pipes.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\bin\roslyn\System.Security.AccessControl.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\bin\roslyn\System.Security.Claims.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\bin\roslyn\System.Security.Principal.Windows.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\bin\roslyn\System.ValueTuple.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\bin\roslyn\System.Xml.XmlDocument.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\bin\roslyn\System.Xml.XPath.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\bin\roslyn\vbc.exe
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\bin\roslyn\vbc.exe.config
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\bin\roslyn\vbc.rsp
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\bin\roslyn\VBCSCompiler.exe
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\bin\Antlr3.Runtime.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\bin\Newtonsoft.Json.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\bin\System.Diagnostics.DiagnosticSource.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\bin\System.Web.Helpers.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\bin\System.Web.Mvc.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\bin\System.Web.Optimization.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\bin\System.Web.Razor.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\bin\System.Web.WebPages.Deployment.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\bin\System.Web.WebPages.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\bin\System.Web.WebPages.Razor.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\bin\WebGrease.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\bin\System.Web.Helpers.xml
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\bin\System.Web.Mvc.xml
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\bin\System.Web.Optimization.xml
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\bin\System.Web.Razor.xml
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\bin\System.Web.WebPages.xml
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\bin\System.Web.WebPages.Deployment.xml
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\bin\System.Web.WebPages.Razor.xml
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\bin\Newtonsoft.Json.xml
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\bin\Antlr3.Runtime.pdb
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\bin\System.Diagnostics.DiagnosticSource.xml
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\obj\Debug\WebApplication2.csproj.CoreCompileInputs.cache
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\obj\Debug\WebApplication2.csproj.CopyComplete
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\obj\Debug\WebApplication2.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\obj\Debug\WebApplication2.pdb
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project\WebApplication2\obj\Debug\WebApplication2.csprojAssemblyReference.cache
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\bin\WebApplication2.dll.config
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\bin\WebApplication2.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\bin\WebApplication2.pdb
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\bin\roslyn\csc.exe
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\bin\roslyn\csc.exe.config
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\bin\roslyn\csc.rsp
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\bin\roslyn\csi.exe
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\bin\roslyn\csi.exe.config
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\bin\roslyn\csi.rsp
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\bin\roslyn\Microsoft.Managed.Core.targets
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\bin\roslyn\System.AppContext.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\bin\roslyn\System.Console.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\bin\roslyn\System.IO.Compression.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\bin\roslyn\System.IO.FileSystem.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\bin\roslyn\System.IO.Pipes.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\bin\roslyn\System.Security.AccessControl.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\bin\roslyn\System.Security.Claims.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\bin\roslyn\System.Security.Principal.Windows.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\bin\roslyn\System.ValueTuple.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\bin\roslyn\System.Xml.XmlDocument.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\bin\roslyn\System.Xml.XPath.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\bin\roslyn\vbc.exe
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\bin\roslyn\vbc.exe.config
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\bin\roslyn\vbc.rsp
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\bin\roslyn\VBCSCompiler.exe
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\bin\Antlr3.Runtime.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\bin\Newtonsoft.Json.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\bin\System.Diagnostics.DiagnosticSource.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\bin\System.Web.Helpers.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\bin\System.Web.Mvc.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\bin\System.Web.Optimization.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\bin\System.Web.Razor.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\bin\System.Web.WebPages.Deployment.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\bin\System.Web.WebPages.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\bin\System.Web.WebPages.Razor.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\bin\WebGrease.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\bin\System.Web.Helpers.xml
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\bin\System.Web.Mvc.xml
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\bin\System.Web.Optimization.xml
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\bin\System.Web.Razor.xml
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\bin\System.Web.WebPages.xml
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\bin\System.Web.WebPages.Deployment.xml
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\bin\System.Web.WebPages.Razor.xml
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\bin\Newtonsoft.Json.xml
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\bin\Antlr3.Runtime.pdb
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\bin\System.Diagnostics.DiagnosticSource.xml
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\obj\Debug\WebApplication2.csprojAssemblyReference.cache
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\obj\Debug\WebApplication2.csproj.CoreCompileInputs.cache
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\obj\Debug\WebApplication2.csproj.CopyComplete
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\obj\Debug\WebApplication2.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\SchoolMVC\WebApplication2\obj\Debug\WebApplication2.pdb
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\bin\WebApplication2.dll.config
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\bin\WebApplication2.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\bin\WebApplication2.pdb
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\bin\roslyn\csc.exe
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\bin\roslyn\csc.exe.config
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\bin\roslyn\csc.rsp
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\bin\roslyn\csi.exe
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\bin\roslyn\csi.exe.config
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\bin\roslyn\csi.rsp
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\bin\roslyn\Microsoft.Managed.Core.targets
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\bin\roslyn\System.AppContext.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\bin\roslyn\System.Console.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\bin\roslyn\System.IO.Compression.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\bin\roslyn\System.IO.FileSystem.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\bin\roslyn\System.IO.Pipes.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\bin\roslyn\System.Security.AccessControl.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\bin\roslyn\System.Security.Claims.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\bin\roslyn\System.Security.Principal.Windows.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\bin\roslyn\System.ValueTuple.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\bin\roslyn\System.Xml.XmlDocument.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\bin\roslyn\System.Xml.XPath.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\bin\roslyn\vbc.exe
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\bin\roslyn\vbc.exe.config
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\bin\roslyn\vbc.rsp
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\bin\roslyn\VBCSCompiler.exe
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\bin\Antlr3.Runtime.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\bin\Newtonsoft.Json.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\bin\System.Diagnostics.DiagnosticSource.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\bin\System.Web.Helpers.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\bin\System.Web.Mvc.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\bin\System.Web.Optimization.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\bin\System.Web.Razor.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\bin\System.Web.WebPages.Deployment.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\bin\System.Web.WebPages.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\bin\System.Web.WebPages.Razor.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\bin\WebGrease.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\bin\System.Web.Helpers.xml
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\bin\System.Web.Mvc.xml
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\bin\System.Web.Optimization.xml
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\bin\System.Web.Razor.xml
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\bin\System.Web.WebPages.xml
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\bin\System.Web.WebPages.Deployment.xml
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\bin\System.Web.WebPages.Razor.xml
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\bin\Newtonsoft.Json.xml
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\bin\Antlr3.Runtime.pdb
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\bin\System.Diagnostics.DiagnosticSource.xml
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\obj\Debug\WebApplication2.csprojAssemblyReference.cache
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\obj\Debug\WebApplication2.csproj.CoreCompileInputs.cache
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\obj\Debug\WebApplication2.csproj.CopyComplete
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\obj\Debug\WebApplication2.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolMVC\WebApplication2\obj\Debug\WebApplication2.pdb
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\WebApplication2.dll.config
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\WebApplication2.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\WebApplication2.pdb
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\csc.exe
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\csc.exe.config
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\csc.rsp
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\csi.exe
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\csi.exe.config
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\csi.rsp
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\Microsoft.Managed.Core.targets
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\System.AppContext.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\System.Console.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\System.IO.Compression.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\System.IO.FileSystem.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\System.IO.Pipes.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\System.Security.AccessControl.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\System.Security.Claims.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\System.Security.Principal.Windows.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\System.ValueTuple.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\System.Xml.XmlDocument.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\System.Xml.XPath.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\vbc.exe
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\vbc.exe.config
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\vbc.rsp
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\VBCSCompiler.exe
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\Antlr3.Runtime.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\Newtonsoft.Json.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\System.Diagnostics.DiagnosticSource.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\System.Web.Helpers.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\System.Web.Mvc.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\System.Web.Optimization.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\System.Web.Razor.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\System.Web.WebPages.Deployment.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\System.Web.WebPages.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\System.Web.WebPages.Razor.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\WebGrease.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\System.Web.Helpers.xml
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\System.Web.Mvc.xml
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\System.Web.Optimization.xml
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\System.Web.Razor.xml
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\System.Web.WebPages.xml
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\System.Web.WebPages.Deployment.xml
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\System.Web.WebPages.Razor.xml
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\Newtonsoft.Json.xml
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\Antlr3.Runtime.pdb
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\System.Diagnostics.DiagnosticSource.xml
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\obj\Debug\WebApplication2.csprojAssemblyReference.cache
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\obj\Debug\WebApplication2.csproj.CopyComplete
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\obj\Debug\WebApplication2.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\obj\Debug\WebApplication2.pdb
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\WebApplication2.dll.config
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\WebApplication2.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\WebApplication2.pdb
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\csc.exe
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\csc.exe.config
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\csc.rsp
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\csi.exe
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\csi.exe.config
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\csi.rsp
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\Microsoft.Managed.Core.targets
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\System.AppContext.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\System.Console.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\System.IO.Compression.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\System.IO.FileSystem.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\System.IO.Pipes.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\System.Security.AccessControl.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\System.Security.Claims.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\System.Security.Principal.Windows.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\System.ValueTuple.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\System.Xml.XmlDocument.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\System.Xml.XPath.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\vbc.exe
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\vbc.exe.config
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\vbc.rsp
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\VBCSCompiler.exe
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\Antlr3.Runtime.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\Microsoft.IdentityModel.Logging.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\Microsoft.IdentityModel.Tokens.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\Newtonsoft.Json.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\System.Diagnostics.DiagnosticSource.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\System.IdentityModel.Tokens.Jwt.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\System.Web.Helpers.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\System.Web.Mvc.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\System.Web.Optimization.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\System.Web.Razor.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\System.Web.WebPages.Deployment.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\System.Web.WebPages.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\System.Web.WebPages.Razor.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\Twilio.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\WebGrease.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\Microsoft.IdentityModel.Tokens.xml
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\System.IdentityModel.Tokens.Jwt.xml
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\System.Web.Helpers.xml
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\System.Web.Mvc.xml
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\System.Web.Optimization.xml
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\System.Web.Razor.xml
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\System.Web.WebPages.xml
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\System.Web.WebPages.Deployment.xml
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\System.Web.WebPages.Razor.xml
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\Newtonsoft.Json.xml
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\Twilio.xml
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\Antlr3.Runtime.pdb
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\System.Diagnostics.DiagnosticSource.xml
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\obj\Debug\WebApplication2.csprojAssemblyReference.cache
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\obj\Debug\WebApplication2.csproj.CopyComplete
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\obj\Debug\WebApplication2.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC\WebApplication2\obj\Debug\WebApplication2.pdb
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\WebApplication2.dll.config
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\WebApplication2.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\WebApplication2.pdb
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\roslyn\csc.exe
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\roslyn\csc.exe.config
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\roslyn\csc.rsp
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\roslyn\csi.exe
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\roslyn\csi.exe.config
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\roslyn\csi.rsp
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\roslyn\Microsoft.Managed.Core.targets
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\roslyn\System.AppContext.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\roslyn\System.Console.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\roslyn\System.IO.Compression.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\roslyn\System.IO.FileSystem.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\roslyn\System.IO.Pipes.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\roslyn\System.Security.AccessControl.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\roslyn\System.Security.Claims.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\roslyn\System.Security.Principal.Windows.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\roslyn\System.ValueTuple.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\roslyn\System.Xml.XmlDocument.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\roslyn\System.Xml.XPath.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\roslyn\vbc.exe
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\roslyn\vbc.exe.config
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\roslyn\vbc.rsp
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\roslyn\VBCSCompiler.exe
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\Antlr3.Runtime.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\Microsoft.IdentityModel.Logging.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\Microsoft.IdentityModel.Tokens.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\Newtonsoft.Json.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\System.Diagnostics.DiagnosticSource.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\System.IdentityModel.Tokens.Jwt.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\System.Web.Helpers.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\System.Web.Mvc.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\System.Web.Optimization.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\System.Web.Razor.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\System.Web.WebPages.Deployment.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\System.Web.WebPages.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\System.Web.WebPages.Razor.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\Twilio.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\WebGrease.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\Microsoft.IdentityModel.Tokens.xml
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\System.IdentityModel.Tokens.Jwt.xml
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\System.Web.Helpers.xml
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\System.Web.Mvc.xml
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\System.Web.Optimization.xml
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\System.Web.Razor.xml
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\System.Web.WebPages.xml
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\System.Web.WebPages.Deployment.xml
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\System.Web.WebPages.Razor.xml
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\Newtonsoft.Json.xml
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\Twilio.xml
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\Antlr3.Runtime.pdb
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\System.Diagnostics.DiagnosticSource.xml
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\obj\Debug\WebApplication2.csprojAssemblyReference.cache
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\obj\Debug\WebApplication2.csproj.CopyComplete
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\obj\Debug\WebApplication2.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC For Android\WebApplication2\obj\Debug\WebApplication2.pdb
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\WebApplication2.dll.config
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\WebApplication2.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\WebApplication2.pdb
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\csc.exe
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\csc.exe.config
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\csc.rsp
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\csi.exe
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\csi.exe.config
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\csi.rsp
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\Microsoft.Managed.Core.targets
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\System.AppContext.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\System.Console.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\System.IO.Compression.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\System.IO.FileSystem.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\System.IO.Pipes.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\System.Security.AccessControl.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\System.Security.Claims.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\System.Security.Principal.Windows.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\System.ValueTuple.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\System.Xml.XmlDocument.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\System.Xml.XPath.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\vbc.exe
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\vbc.exe.config
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\vbc.rsp
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\VBCSCompiler.exe
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\Antlr3.Runtime.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\Microsoft.IdentityModel.Logging.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\Microsoft.IdentityModel.Tokens.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\Newtonsoft.Json.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\System.Diagnostics.DiagnosticSource.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\System.IdentityModel.Tokens.Jwt.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\System.Web.Helpers.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\System.Web.Mvc.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\System.Web.Optimization.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\System.Web.Razor.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\System.Web.WebPages.Deployment.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\System.Web.WebPages.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\System.Web.WebPages.Razor.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\Twilio.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\WebGrease.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\Microsoft.IdentityModel.Tokens.xml
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\System.IdentityModel.Tokens.Jwt.xml
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\System.Web.Helpers.xml
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\System.Web.Mvc.xml
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\System.Web.Optimization.xml
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\System.Web.Razor.xml
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\System.Web.WebPages.xml
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\System.Web.WebPages.Deployment.xml
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\System.Web.WebPages.Razor.xml
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\Newtonsoft.Json.xml
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\Twilio.xml
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\Antlr3.Runtime.pdb
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\System.Diagnostics.DiagnosticSource.xml
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\obj\Debug\WebApplication2.csproj.CopyComplete
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\obj\Debug\WebApplication2.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\obj\Debug\WebApplication2.pdb
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\obj\Debug\WebApplication2.csprojAssemblyReference.cache
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\WebApplication2.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\WebApplication2.pdb
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\csc.exe
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\csc.exe.config
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\csc.rsp
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\csi.exe
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\csi.exe.config
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\csi.rsp
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\System.AppContext.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\System.Console.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\System.IO.Compression.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\System.IO.Pipes.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\System.Security.Claims.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\System.ValueTuple.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\vbc.exe
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\vbc.exe.config
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\vbc.rsp
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\VBCSCompiler.exe
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\Antlr3.Runtime.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\Newtonsoft.Json.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\System.Web.Helpers.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\System.Web.Mvc.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\System.Web.Optimization.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\System.Web.Razor.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\System.Web.WebPages.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\System.Web.WebPages.Razor.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\Twilio.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\WebGrease.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\System.Web.Helpers.xml
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\System.Web.Mvc.xml
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\System.Web.Optimization.xml
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\System.Web.Razor.xml
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\System.Web.WebPages.xml
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\System.Web.WebPages.Razor.xml
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\Newtonsoft.Json.xml
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\Twilio.xml
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\Antlr3.Runtime.pdb
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\obj\Debug\WebApplication2.csprojAssemblyReference.cache
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\obj\Debug\WebApplication2.csproj.CopyComplete
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\obj\Debug\WebApplication2.pdb
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\WebApplication2.dll.config
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\WebApplication2.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\WebApplication2.pdb
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\csc.exe
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\csc.exe.config
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\csc.rsp
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\csi.exe
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\csi.exe.config
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\csi.rsp
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\System.AppContext.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\System.Console.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\System.IO.Compression.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\System.IO.FileSystem.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\System.IO.Pipes.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\System.Security.AccessControl.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\System.Security.Claims.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\System.ValueTuple.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\System.Xml.XPath.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\vbc.exe
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\vbc.exe.config
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\vbc.rsp
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\VBCSCompiler.exe
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\Antlr3.Runtime.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\Microsoft.IdentityModel.Logging.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\Microsoft.IdentityModel.Tokens.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\Newtonsoft.Json.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\System.IdentityModel.Tokens.Jwt.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\System.Web.Helpers.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\System.Web.Mvc.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\System.Web.Optimization.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\System.Web.Razor.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\System.Web.WebPages.Deployment.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\System.Web.WebPages.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\System.Web.WebPages.Razor.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\Twilio.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\WebGrease.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\Microsoft.IdentityModel.Tokens.xml
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\System.IdentityModel.Tokens.Jwt.xml
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\System.Web.Helpers.xml
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\System.Web.Mvc.xml
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\System.Web.Optimization.xml
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\System.Web.Razor.xml
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\System.Web.WebPages.xml
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\System.Web.WebPages.Deployment.xml
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\System.Web.WebPages.Razor.xml
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\Newtonsoft.Json.xml
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\Twilio.xml
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\Antlr3.Runtime.pdb
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\obj\Debug\WebApplication2.csprojAssemblyReference.cache
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\obj\Debug\WebApplication2.csproj.CoreCompileInputs.cache
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\obj\Debug\WebApplication2.csproj.CopyComplete
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\obj\Debug\WebApplication2.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\SchoolDataMVC AndroidSide\WebApplication2\obj\Debug\WebApplication2.pdb

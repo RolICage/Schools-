@@ -1,0 +1,499 @@
+﻿
+/*================================ Grid view Items ================================*/
+/*================================ Grid view Items ================================*/
+/*================================ Grid view Items ================================*/
+
+.GridHeader {
+    width: 1202px;
+    height: 65px;
+    border: 2px solid;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    background-color: black;
+    border-color: #FF9900;
+    font: bold;
+}
+
+.GridFooter {
+    width: 1202px;
+    height: 90px;
+    border: 2px solid;
+    background-repeat-y: no-repeat;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    background-color: black;
+    border-color: #FF9900;
+    margin-bottom: 70px;
+    font: bold;
+}
+
+.HeaderCellStyle {
+    width: 250px;
+    border: 20px;
+    border-radius: 10px;
+    background-color: black;
+    font-size: large;
+    text-align: center;
+}
+
+
+.FooterCellStyle {
+    width: 250px;
+    border: 20px;
+    border-radius: 10px;
+    background-color: transparent;
+    font-size: large;
+    text-align: center;
+}
+
+
+
+/*================================ Gif STYLES ================================*/
+/*================================ Gif STYLES ================================*/
+/*================================ Gif STYLES ================================*/
+
+
+.EditGif {
+    height: 60px;
+    width: 170px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+}
+
+.BackGroundGIF {
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.ImagesStyle {
+    vertical-align: top;
+    position: absolute;
+    height: 47px;
+    width: 47px;
+}
+
+.ImagesStyleChangePic {
+    vertical-align: top;
+    position: absolute;
+    height: 45px;
+    width: 45px;
+    background-color: transparent;
+    border-color: transparent;
+}
+
+.GridRow {
+    vertical-align: top;
+    transition: 0.4s;
+}
+
+.GridEditRow {
+    vertical-align: middle;
+    transition: 0.4s;
+}
+
+.NOSEE {
+    visibility: hidden;
+}
+
+
+/*================================ TextBox && LABEL && DropDown && Button Styles ================================*/
+/*================================ TextBox && LABEL && DropDown && Button Styles ================================*/
+/*================================ TextBox && LABEL && DropDown && Button Styles ================================*/
+
+
+.TextBox {
+    background-color: transparent;
+    border-color: transparent;
+    border-style: none;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    width: 320px;
+    height: 100%;
+    font-size: medium;
+    text-align: center;
+}
+
+
+.GridViewTextBox {
+    font-family: 'ArabicFont';
+    background-color: #808080;
+    border-color: #FF9900;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    width: 150px;
+    height: 35px;
+    font-size: large;
+    text-align: center;
+    transition: 0.4s;
+}
+
+    .GridViewTextBox:hover {
+        width: 170px;
+    }
+
+.GridViewLabel {
+    font-family: 'ArabicFont';
+    background-color: #F8B334;
+    border-color: black;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    width: 130px;
+    height: 28px;
+    color: black;
+    font-size: large;
+    text-align: center;
+}
+
+.GridViewLabe2 {
+    font-family: 'ArabicFont';
+    background-color: #FF9900;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border: 2px solid transparent;
+    border-radius: 10px;
+    width: 200px;
+    height: 28px;
+    color: black;
+    font-size: large;
+    text-align: left;
+    vertical-align: middle;
+}
+
+.mydropdownlist {
+    font-family: 'ArabicFont';
+    color: black;
+    font-size: large;
+    padding: 5px 13px;
+    border-radius: 5px;
+    background-color: #F8B334;
+    font-weight: bold;
+    border-color: black;
+}
+
+@font-face {
+    font-family: 'ArabicFont';
+    src: url(fonts/AR.ttf);
+    font-style: normal;
+    font-weight: 100;
+}
+
+.Label {
+    font-family: 'ArabicFont';
+    background-color: transparent;
+    border-color: transparent;
+    width: 200px;
+    height: 100%;
+    font-size: large;
+    vertical-align: middle;
+    text-align: center;
+    color: #F8B334;
+    transition: 0.4s;
+}
+
+.ButtonS {
+    font-family: ArabicFont;
+    width: 200px;
+    height: 35px;
+    font-size: large;
+    border-width: 3px;
+    border-color: #FF9900;
+    background-color: black;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+}
+
+.ButtonS2 {
+    font-family: ArabicFont;
+    width: 120px;
+    height: 35px;
+    font-size: large;
+    border-width: 3px;
+    border-color: #FF9900;
+    background-color: black;
+    border-radius: 5px 12px;
+    transition: 0.4s;
+}
+
+.ADDDELETE {
+    font-family: ArabicFont;
+    width: 120px;
+    height: 35px;
+    font-size: large;
+    border-width: 3px;
+    border-color: #FF9900;
+    background-color: black;
+    border-radius: 5px 12px;
+    transition: 0.4s;
+}
+
+    .ADDDELETE:hover {
+        width: 130px;
+        background-color: gray;
+    }
+
+
+.ButtonSADD {
+    font-family: ArabicFont;
+    width: 180px;
+    height: 35px;
+    font-size: large;
+    border-width: 3px;
+    border-color: #FF9900;
+    border-radius: 5px 12px;
+    background-color: black;
+    transition: 0.4s;
+}
+
+:root {
+    --gv-border-radius: 15px;
+}
+
+
+
+
+.DropDownStyle {
+    font-family: ArabicFont;
+    color: black;
+    width: 180px;
+    font-size: 20px;
+    padding: 5px 10px;
+    border-radius: 5px 12px;
+    background-color: #F8B334;
+    border-color: whitesmoke;
+    font-weight: bold;
+    transition: 0.4s;
+}
+
+
+.DropDownStyleinPopUp {
+    color: black;
+    width: 180px;
+    font-size: 20px;
+    padding: 5px 10px;
+    border-radius: 5px 12px;
+    background-color: #F8B334;
+    border-color: whitesmoke;
+    font-weight: bold;
+    font-size: large;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.ButtonSADD:hover {
+    width: 200px;
+    background-color: dimgrey;
+}
+
+.DropDownStyle:hover {
+    width: 200px;
+}
+
+.ButtonS2:hover {
+    border-radius: 12px 12px;
+    background-color: dimgrey;
+    width: 127px;
+}
+
+
+
+.TextBox2 {
+    background-color: transparent;
+    border-color: transparent;
+    border-style: none;
+    border-radius: 12px 5px;
+    width: 320px;
+    height: 100%;
+    font-size: medium;
+    text-align: center;
+}
+
+.search-box {
+    font-family: 'ArabicFont';
+    margin-top: 61px;
+    margin-left: 145px;
+    z-index: 1;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    background: #2b2b2b;
+    height: 35px;
+    border-radius: 30px;
+    padding: 10px;
+    background: #212000;
+}
+
+.search-btn {
+    color: #ff6a00;
+    float: right;
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    justify-content: center;
+    align-items: center;
+    outline: none;
+    border-width: 2px;
+    transition: 0.4s;
+    font-size: larger;
+}
+
+
+.search-txt {
+    font-family: 'ArabicFont';
+    border: none;
+    background: none;
+    outline: none;
+    float: right;
+    color: #ffd800;
+    transition: 0.4s;
+    line-height: 25px;
+    width: 160px;
+    height: 100%;
+    font-size: medium;
+    margin-left: 35px;
+}
+
+.search-box:hover > .search-txt {
+    width: 200px;
+}
+
+.search-box:hover > .search-btn {
+    color: greenyellow;
+}
+
+
+/*================================ Tabels && DIVs Styles ================================*/
+/*================================ Tabels && DIVs Styles ================================*/
+/*================================ Tabels && DIVs Styles ================================*/
+
+
+.Tabel {
+    margin: auto;
+    vertical-align: middle;
+    width: 694px;
+    height: 386px;
+    background-color: #FF9900;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    border: 4px solid black;
+}
+
+.Tabel2 {
+    border: 2px solid;
+    border-color: #FF9900;
+    margin: auto;
+    vertical-align: middle;
+    width: 500px;
+    height: 200px;
+    background-color: #000000D9;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+}
+
+.ScrollDiv {
+    width: 1200px;
+    height: auto;
+    max-height: 400px;
+    overflow: auto;
+    position: relative;
+}
+
+.ScrollDiv2 {
+    width: 1470px;
+    height: auto;
+    max-height: 400px;
+    overflow: auto;
+    position: relative;
+}
+
+
+SearchDiv {
+    width: 1200px;
+    height: 100px;
+    align-items: center;
+}
+
+
+/*================================ Tabel Cells Styles ================================*/
+/*================================ Tabel Cells Styles ================================*/
+/*================================ Tabel Cells Styles ================================*/
+
+
+.CellStyle {
+    width: 340px;
+    border: 2px solid black;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    background-color: #F8B334;
+    vertical-align: bottom;
+}
+
+.CellStyle2 {
+    width: 340px;
+    border: 20px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    background-color: transparent;
+    vertical-align: bottom;
+}
+
+
+/*================================ PopUps(Div) Styles ================================*/
+/*================================ PopUps(Div) Styles ================================*/
+/*================================ PopUps(Div) Styles ================================*/
+
+.PopUpMessage {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 5;
+    background-color: rgba(0,0,0,0.5);
+    height: 100%;
+    width: 100%;
+    background-color: #000000A6;
+}
+
+
+.AddParentsPopUp {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 2;
+    background-color: rgba(0,0,0,0.5);
+    height: 100%;
+    width: 100%;
+    background-color: #000000A6;
+}
+
+.ChangeIDPopUp {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    height: 100%;
+    width: 100%;
+    background-color: #000000A6;
+}
+
+
+
+.ImageUpload {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: rgba(0,0,0,0.5);
+    height: 20px;
+    width: 70px;
+    background-color: #000000A6;
+}

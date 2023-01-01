@@ -1,0 +1,77 @@
+<div class="wikidoc"><h1>First read <a href="https://webdotajax.codeplex.com/wikipage?title=Setup&referringTitle=Ajax%20Tree">Setup</a>.</h1>
+The Ajax Tree is an Asp.Net control for rendering a Tree where the data for each node can be retrieved from an AJAX request.<br /><br />In your .aspx file<br /><div style="color:Black;background-color:White;"><pre>
+<span style="color:Blue;">&lt;</span><span style="color:#A31515;">c</span><span style="color:Blue;">:</span><span style="color:#A31515;">Tree</span> <span style="color:Red;">runat</span><span style="color:Blue;">=</span><span style="color:Blue;">&quot;server&quot;</span> <span style="color:Red;">ID</span><span style="color:Blue;">=</span><span style="color:Blue;">&quot;MyTree&quot;</span> <span style="color:Blue;">/&gt;</span>
+</pre></div><br />In your .aspx.cs code behind file<br /><div style="color:Black;background-color:White;"><pre>
+<span style="color:Blue;">using</span> Web.Ajax;
+<span style="color:Blue;">using</span> Web.Ajax.Controls;
+
+<span style="color:Green;">//Inherit your page class from Web.Ajax.Page</span>
+<span style="color:Blue;">public</span> <span style="color:Blue;">partial</span> <span style="color:Blue;">class</span> Default : Web.Ajax.Page
+{
+    <span style="color:Blue;">public</span> <span style="color:Blue;">static</span> TreeData[] GetTree(TreeInfo ti)
+    {
+        <span style="color:Blue;">if</span> (<span style="color:Blue;">string</span>.IsNullOrEmpty(ti.Path))	<span style="color:Green;">//Get the root level</span>
+        {
+            <span style="color:Blue;">return</span> <span style="color:Blue;">new</span> TreeData[]{
+                <span style="color:Blue;">new</span> TreeData(){
+                    Id=<span style="color:#A31515;">&quot;1&quot;</span>,		
+                    Title=<span style="color:#A31515;">&quot;Root 1&quot;</span>,
+                    Ajax=<span style="color:Blue;">true</span> <span style="color:Green;">//Get the children of this node using ajax</span>
+                },
+                <span style="color:Blue;">new</span> TreeData(){
+                    Id=<span style="color:#A31515;">&quot;2&quot;</span>,
+                    Title=<span style="color:#A31515;">&quot;Root 2&quot;</span>,
+                    Ajax=<span style="color:Blue;">true</span>
+		}
+            };
+        }
+        <span style="color:Blue;">else</span>
+        {
+             <span style="color:Blue;">switch</span> (ti.Path)
+             {
+                 <span style="color:Blue;">case</span> <span style="color:#A31515;">&quot;1&quot;</span>:
+                      <span style="color:Blue;">return</span> <span style="color:Blue;">new</span> TreeData[]{
+                          <span style="color:Blue;">new</span> TreeData(){
+                              Id=<span style="color:#A31515;">&quot;1/1&quot;</span>,
+                              Title=<span style="color:#A31515;">&quot;Root 1, Child 1&quot;</span>,
+                              Ajax=<span style="color:Blue;">true</span>
+                          },
+                          <span style="color:Blue;">new</span> TreeData(){
+                              Id=<span style="color:#A31515;">&quot;1/2&quot;</span>,
+                              Title=<span style="color:#A31515;">&quot;Root 1, Child 2&quot;</span>
+                          }
+                      };
+                 <span style="color:Blue;">case</span> <span style="color:#A31515;">&quot;2&quot;</span>:
+                     <span style="color:Blue;">return</span> <span style="color:Blue;">new</span> TreeData[]{
+                         <span style="color:Blue;">new</span> TreeData(){
+                             Id=<span style="color:#A31515;">&quot;2/1&quot;</span>,		
+                             Title=<span style="color:#A31515;">&quot;Root 2, Child 1&quot;</span>
+                         },
+                         <span style="color:Blue;">new</span> TreeData(){
+                             Id=<span style="color:#A31515;">&quot;2/2&quot;</span>,
+                             Title=<span style="color:#A31515;">&quot;Root 2, Child 2&quot;</span>
+                         }
+                     };
+                 <span style="color:Blue;">case</span> <span style="color:#A31515;">&quot;1/1&quot;</span>:
+                     <span style="color:Blue;">return</span> <span style="color:Blue;">new</span> TreeData[]{
+                         <span style="color:Blue;">new</span> TreeData(){
+                             Id=<span style="color:#A31515;">&quot;1/1/1&quot;</span>,		
+                             Title=<span style="color:#A31515;">&quot;Root 1, Child 1, Sub Child 1&quot;</span>
+                         },
+                         <span style="color:Blue;">new</span> TreeData(){
+                            Id=<span style="color:#A31515;">&quot;1/1/2&quot;</span>,
+                            Title=<span style="color:#A31515;">&quot;Root 1, Child 1, Sub Child 1&quot;</span>
+                      }
+                 };
+            }
+        }
+        <span style="color:Blue;">return</span> <span style="color:Blue;">null</span>;
+    }
+
+    <span style="color:Blue;">protected</span> <span style="color:Blue;">void</span> Page_Load(<span style="color:Blue;">object</span> sender, EventArgs e)
+    {
+        <span style="color:Green;">//Assign the DataMethod on the tree control</span>
+        MyTree.DataMethod = GetTree;
+    }
+}
+</pre></div><br /></div><div class="ClearBoth"></div>

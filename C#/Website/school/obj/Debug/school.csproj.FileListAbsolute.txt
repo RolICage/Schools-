@@ -1,0 +1,1182 @@
+C:\Users\Noor\source\repos\school\school\bin\school.dll.config
+C:\Users\Noor\source\repos\school\school\bin\school.dll
+C:\Users\Noor\source\repos\school\school\bin\school.pdb
+C:\Users\Noor\source\repos\school\school\bin\roslyn\csc.exe
+C:\Users\Noor\source\repos\school\school\bin\roslyn\csc.exe.config
+C:\Users\Noor\source\repos\school\school\bin\roslyn\csc.rsp
+C:\Users\Noor\source\repos\school\school\bin\roslyn\csi.exe
+C:\Users\Noor\source\repos\school\school\bin\roslyn\csi.exe.config
+C:\Users\Noor\source\repos\school\school\bin\roslyn\csi.rsp
+C:\Users\Noor\source\repos\school\school\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Noor\source\repos\school\school\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Noor\source\repos\school\school\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Noor\source\repos\school\school\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Noor\source\repos\school\school\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Noor\source\repos\school\school\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Noor\source\repos\school\school\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Noor\source\repos\school\school\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Noor\source\repos\school\school\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Noor\source\repos\school\school\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Noor\source\repos\school\school\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Noor\source\repos\school\school\bin\roslyn\System.AppContext.dll
+C:\Users\Noor\source\repos\school\school\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Noor\source\repos\school\school\bin\roslyn\System.Console.dll
+C:\Users\Noor\source\repos\school\school\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Noor\source\repos\school\school\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Noor\source\repos\school\school\bin\roslyn\System.IO.Compression.dll
+C:\Users\Noor\source\repos\school\school\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Noor\source\repos\school\school\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Noor\source\repos\school\school\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Noor\source\repos\school\school\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Noor\source\repos\school\school\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Noor\source\repos\school\school\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Noor\source\repos\school\school\bin\roslyn\System.Security.Claims.dll
+C:\Users\Noor\source\repos\school\school\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Noor\source\repos\school\school\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Noor\source\repos\school\school\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Noor\source\repos\school\school\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Noor\source\repos\school\school\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Noor\source\repos\school\school\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Noor\source\repos\school\school\bin\roslyn\System.ValueTuple.dll
+C:\Users\Noor\source\repos\school\school\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Noor\source\repos\school\school\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Noor\source\repos\school\school\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Noor\source\repos\school\school\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Noor\source\repos\school\school\bin\roslyn\vbc.exe
+C:\Users\Noor\source\repos\school\school\bin\roslyn\vbc.exe.config
+C:\Users\Noor\source\repos\school\school\bin\roslyn\vbc.rsp
+C:\Users\Noor\source\repos\school\school\bin\roslyn\VBCSCompiler.exe
+C:\Users\Noor\source\repos\school\school\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Noor\source\repos\school\school\bin\Antlr3.Runtime.dll
+C:\Users\Noor\source\repos\school\school\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Noor\source\repos\school\school\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Noor\source\repos\school\school\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Noor\source\repos\school\school\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Noor\source\repos\school\school\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Noor\source\repos\school\school\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Noor\source\repos\school\school\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Noor\source\repos\school\school\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Noor\source\repos\school\school\bin\Newtonsoft.Json.dll
+C:\Users\Noor\source\repos\school\school\bin\System.Web.Optimization.dll
+C:\Users\Noor\source\repos\school\school\bin\WebGrease.dll
+C:\Users\Noor\source\repos\school\school\bin\System.Web.Optimization.xml
+C:\Users\Noor\source\repos\school\school\bin\Newtonsoft.Json.xml
+C:\Users\Noor\source\repos\school\school\bin\Antlr3.Runtime.pdb
+C:\Users\Noor\source\repos\school\school\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Noor\source\repos\school\school\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Noor\source\repos\school\school\obj\Debug\school.csprojAssemblyReference.cache
+C:\Users\Noor\source\repos\school\school\obj\Debug\school.csproj.CoreCompileInputs.cache
+C:\Users\Noor\source\repos\school\school\obj\Debug\school.csproj.CopyComplete
+C:\Users\Noor\source\repos\school\school\obj\Debug\school.dll
+C:\Users\Noor\source\repos\school\school\obj\Debug\school.pdb
+C:\Users\Noor\Desktop\school\school\bin\school.dll.config
+C:\Users\Noor\Desktop\school\school\bin\school.dll
+C:\Users\Noor\Desktop\school\school\bin\school.pdb
+C:\Users\Noor\Desktop\school\school\bin\roslyn\csc.exe
+C:\Users\Noor\Desktop\school\school\bin\roslyn\csc.exe.config
+C:\Users\Noor\Desktop\school\school\bin\roslyn\csc.rsp
+C:\Users\Noor\Desktop\school\school\bin\roslyn\csi.exe
+C:\Users\Noor\Desktop\school\school\bin\roslyn\csi.exe.config
+C:\Users\Noor\Desktop\school\school\bin\roslyn\csi.rsp
+C:\Users\Noor\Desktop\school\school\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Noor\Desktop\school\school\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Noor\Desktop\school\school\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Noor\Desktop\school\school\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Noor\Desktop\school\school\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Noor\Desktop\school\school\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Noor\Desktop\school\school\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Noor\Desktop\school\school\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Noor\Desktop\school\school\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Noor\Desktop\school\school\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Noor\Desktop\school\school\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Noor\Desktop\school\school\bin\roslyn\System.AppContext.dll
+C:\Users\Noor\Desktop\school\school\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Noor\Desktop\school\school\bin\roslyn\System.Console.dll
+C:\Users\Noor\Desktop\school\school\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Noor\Desktop\school\school\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Noor\Desktop\school\school\bin\roslyn\System.IO.Compression.dll
+C:\Users\Noor\Desktop\school\school\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Noor\Desktop\school\school\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Noor\Desktop\school\school\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Noor\Desktop\school\school\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Noor\Desktop\school\school\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Noor\Desktop\school\school\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Noor\Desktop\school\school\bin\roslyn\System.Security.Claims.dll
+C:\Users\Noor\Desktop\school\school\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Noor\Desktop\school\school\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Noor\Desktop\school\school\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Noor\Desktop\school\school\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Noor\Desktop\school\school\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Noor\Desktop\school\school\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Noor\Desktop\school\school\bin\roslyn\System.ValueTuple.dll
+C:\Users\Noor\Desktop\school\school\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Noor\Desktop\school\school\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Noor\Desktop\school\school\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Noor\Desktop\school\school\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Noor\Desktop\school\school\bin\roslyn\vbc.exe
+C:\Users\Noor\Desktop\school\school\bin\roslyn\vbc.exe.config
+C:\Users\Noor\Desktop\school\school\bin\roslyn\vbc.rsp
+C:\Users\Noor\Desktop\school\school\bin\roslyn\VBCSCompiler.exe
+C:\Users\Noor\Desktop\school\school\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Noor\Desktop\school\school\bin\Antlr3.Runtime.dll
+C:\Users\Noor\Desktop\school\school\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Noor\Desktop\school\school\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Noor\Desktop\school\school\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Noor\Desktop\school\school\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Noor\Desktop\school\school\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Noor\Desktop\school\school\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Noor\Desktop\school\school\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Noor\Desktop\school\school\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Noor\Desktop\school\school\bin\Newtonsoft.Json.dll
+C:\Users\Noor\Desktop\school\school\bin\System.Web.Optimization.dll
+C:\Users\Noor\Desktop\school\school\bin\WebGrease.dll
+C:\Users\Noor\Desktop\school\school\bin\System.Web.Optimization.xml
+C:\Users\Noor\Desktop\school\school\bin\Newtonsoft.Json.xml
+C:\Users\Noor\Desktop\school\school\bin\Antlr3.Runtime.pdb
+C:\Users\Noor\Desktop\school\school\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Noor\Desktop\school\school\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Noor\Desktop\school\school\obj\Debug\school.csprojAssemblyReference.cache
+C:\Users\Noor\Desktop\school\school\obj\Debug\school.csproj.CoreCompileInputs.cache
+C:\Users\Noor\Desktop\school\school\obj\Debug\school.csproj.CopyComplete
+C:\Users\Noor\Desktop\school\school\obj\Debug\school.dll
+C:\Users\Noor\Desktop\school\school\obj\Debug\school.pdb
+G:\Users\RollCage X\Desktop\school\school\bin\school.dll.config
+G:\Users\RollCage X\Desktop\school\school\bin\school.dll
+G:\Users\RollCage X\Desktop\school\school\bin\school.pdb
+G:\Users\RollCage X\Desktop\school\school\bin\roslyn\csc.exe
+G:\Users\RollCage X\Desktop\school\school\bin\roslyn\csc.exe.config
+G:\Users\RollCage X\Desktop\school\school\bin\roslyn\csc.rsp
+G:\Users\RollCage X\Desktop\school\school\bin\roslyn\csi.exe
+G:\Users\RollCage X\Desktop\school\school\bin\roslyn\csi.exe.config
+G:\Users\RollCage X\Desktop\school\school\bin\roslyn\csi.rsp
+G:\Users\RollCage X\Desktop\school\school\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Users\RollCage X\Desktop\school\school\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Users\RollCage X\Desktop\school\school\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Users\RollCage X\Desktop\school\school\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Users\RollCage X\Desktop\school\school\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Users\RollCage X\Desktop\school\school\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Users\RollCage X\Desktop\school\school\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Users\RollCage X\Desktop\school\school\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Users\RollCage X\Desktop\school\school\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Users\RollCage X\Desktop\school\school\bin\roslyn\Microsoft.Managed.Core.targets
+G:\Users\RollCage X\Desktop\school\school\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Users\RollCage X\Desktop\school\school\bin\roslyn\System.AppContext.dll
+G:\Users\RollCage X\Desktop\school\school\bin\roslyn\System.Collections.Immutable.dll
+G:\Users\RollCage X\Desktop\school\school\bin\roslyn\System.Console.dll
+G:\Users\RollCage X\Desktop\school\school\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\Users\RollCage X\Desktop\school\school\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Users\RollCage X\Desktop\school\school\bin\roslyn\System.IO.Compression.dll
+G:\Users\RollCage X\Desktop\school\school\bin\roslyn\System.IO.FileSystem.dll
+G:\Users\RollCage X\Desktop\school\school\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\Users\RollCage X\Desktop\school\school\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\Users\RollCage X\Desktop\school\school\bin\roslyn\System.IO.Pipes.dll
+G:\Users\RollCage X\Desktop\school\school\bin\roslyn\System.Reflection.Metadata.dll
+G:\Users\RollCage X\Desktop\school\school\bin\roslyn\System.Security.AccessControl.dll
+G:\Users\RollCage X\Desktop\school\school\bin\roslyn\System.Security.Claims.dll
+G:\Users\RollCage X\Desktop\school\school\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\Users\RollCage X\Desktop\school\school\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\Users\RollCage X\Desktop\school\school\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\Users\RollCage X\Desktop\school\school\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\Users\RollCage X\Desktop\school\school\bin\roslyn\System.Security.Principal.Windows.dll
+G:\Users\RollCage X\Desktop\school\school\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\Users\RollCage X\Desktop\school\school\bin\roslyn\System.ValueTuple.dll
+G:\Users\RollCage X\Desktop\school\school\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\Users\RollCage X\Desktop\school\school\bin\roslyn\System.Xml.XmlDocument.dll
+G:\Users\RollCage X\Desktop\school\school\bin\roslyn\System.Xml.XPath.dll
+G:\Users\RollCage X\Desktop\school\school\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\Users\RollCage X\Desktop\school\school\bin\roslyn\vbc.exe
+G:\Users\RollCage X\Desktop\school\school\bin\roslyn\vbc.exe.config
+G:\Users\RollCage X\Desktop\school\school\bin\roslyn\vbc.rsp
+G:\Users\RollCage X\Desktop\school\school\bin\roslyn\VBCSCompiler.exe
+G:\Users\RollCage X\Desktop\school\school\bin\roslyn\VBCSCompiler.exe.config
+G:\Users\RollCage X\Desktop\school\school\bin\Antlr3.Runtime.dll
+G:\Users\RollCage X\Desktop\school\school\bin\AspNet.ScriptManager.bootstrap.dll
+G:\Users\RollCage X\Desktop\school\school\bin\AspNet.ScriptManager.jQuery.dll
+G:\Users\RollCage X\Desktop\school\school\bin\Microsoft.AspNet.FriendlyUrls.dll
+G:\Users\RollCage X\Desktop\school\school\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+G:\Users\RollCage X\Desktop\school\school\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Users\RollCage X\Desktop\school\school\bin\Microsoft.ScriptManager.MSAjax.dll
+G:\Users\RollCage X\Desktop\school\school\bin\Microsoft.ScriptManager.WebForms.dll
+G:\Users\RollCage X\Desktop\school\school\bin\Microsoft.Web.Infrastructure.dll
+G:\Users\RollCage X\Desktop\school\school\bin\Newtonsoft.Json.dll
+G:\Users\RollCage X\Desktop\school\school\bin\System.Web.Optimization.dll
+G:\Users\RollCage X\Desktop\school\school\bin\WebGrease.dll
+G:\Users\RollCage X\Desktop\school\school\bin\System.Web.Optimization.xml
+G:\Users\RollCage X\Desktop\school\school\bin\Newtonsoft.Json.xml
+G:\Users\RollCage X\Desktop\school\school\bin\Antlr3.Runtime.pdb
+G:\Users\RollCage X\Desktop\school\school\bin\Microsoft.AspNet.FriendlyUrls.xml
+G:\Users\RollCage X\Desktop\school\school\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Users\RollCage X\Desktop\school\school\obj\Debug\school.csprojAssemblyReference.cache
+G:\Users\RollCage X\Desktop\school\school\obj\Debug\school.csproj.CoreCompileInputs.cache
+G:\Users\RollCage X\Desktop\school\school\obj\Debug\school.csproj.CopyComplete
+G:\Users\RollCage X\Desktop\school\school\obj\Debug\school.dll
+G:\Users\RollCage X\Desktop\school\school\obj\Debug\school.pdb
+G:\Users\RollCage X\Desktop\ProjectWork\C#\C# Website\school\school\obj\Debug\school.csprojAssemblyReference.cache
+G:\Users\RollCage X\Desktop\ProjectWork\C#\C# Website\school\school\obj\Debug\school.csproj.CoreCompileInputs.cache
+G:\Users\RollCage X\Desktop\ProjectWork\C#\C# Website\school\school\obj\Debug\school.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\C# Website\school\school\obj\Debug\school.pdb
+G:\Users\RollCage X\Desktop\ProjectWork\C#\C# Website\school\school\bin\school.dll.config
+G:\Users\RollCage X\Desktop\ProjectWork\C#\C# Website\school\school\bin\school.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\C# Website\school\school\bin\school.pdb
+G:\Users\RollCage X\Desktop\ProjectWork\C#\C# Website\school\school\bin\roslyn\csc.exe
+G:\Users\RollCage X\Desktop\ProjectWork\C#\C# Website\school\school\bin\roslyn\csc.exe.config
+G:\Users\RollCage X\Desktop\ProjectWork\C#\C# Website\school\school\bin\roslyn\csc.rsp
+G:\Users\RollCage X\Desktop\ProjectWork\C#\C# Website\school\school\bin\roslyn\csi.exe
+G:\Users\RollCage X\Desktop\ProjectWork\C#\C# Website\school\school\bin\roslyn\csi.exe.config
+G:\Users\RollCage X\Desktop\ProjectWork\C#\C# Website\school\school\bin\roslyn\csi.rsp
+G:\Users\RollCage X\Desktop\ProjectWork\C#\C# Website\school\school\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\C# Website\school\school\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\C# Website\school\school\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\C# Website\school\school\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\C# Website\school\school\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\C# Website\school\school\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\C# Website\school\school\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Users\RollCage X\Desktop\ProjectWork\C#\C# Website\school\school\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\C# Website\school\school\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\C# Website\school\school\bin\roslyn\Microsoft.Managed.Core.targets
+G:\Users\RollCage X\Desktop\ProjectWork\C#\C# Website\school\school\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Users\RollCage X\Desktop\ProjectWork\C#\C# Website\school\school\bin\roslyn\System.AppContext.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\C# Website\school\school\bin\roslyn\System.Collections.Immutable.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\C# Website\school\school\bin\roslyn\System.Console.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\C# Website\school\school\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\C# Website\school\school\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\C# Website\school\school\bin\roslyn\System.IO.Compression.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\C# Website\school\school\bin\roslyn\System.IO.FileSystem.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\C# Website\school\school\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\C# Website\school\school\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\C# Website\school\school\bin\roslyn\System.IO.Pipes.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\C# Website\school\school\bin\roslyn\System.Reflection.Metadata.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\C# Website\school\school\bin\roslyn\System.Security.AccessControl.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\C# Website\school\school\bin\roslyn\System.Security.Claims.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\C# Website\school\school\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\C# Website\school\school\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\C# Website\school\school\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\C# Website\school\school\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\C# Website\school\school\bin\roslyn\System.Security.Principal.Windows.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\C# Website\school\school\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\C# Website\school\school\bin\roslyn\System.ValueTuple.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\C# Website\school\school\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\C# Website\school\school\bin\roslyn\System.Xml.XmlDocument.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\C# Website\school\school\bin\roslyn\System.Xml.XPath.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\C# Website\school\school\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\C# Website\school\school\bin\roslyn\vbc.exe
+G:\Users\RollCage X\Desktop\ProjectWork\C#\C# Website\school\school\bin\roslyn\vbc.exe.config
+G:\Users\RollCage X\Desktop\ProjectWork\C#\C# Website\school\school\bin\roslyn\vbc.rsp
+G:\Users\RollCage X\Desktop\ProjectWork\C#\C# Website\school\school\bin\roslyn\VBCSCompiler.exe
+G:\Users\RollCage X\Desktop\ProjectWork\C#\C# Website\school\school\bin\roslyn\VBCSCompiler.exe.config
+G:\Users\RollCage X\Desktop\ProjectWork\C#\C# Website\school\school\bin\Antlr3.Runtime.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\C# Website\school\school\bin\AspNet.ScriptManager.bootstrap.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\C# Website\school\school\bin\AspNet.ScriptManager.jQuery.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\C# Website\school\school\bin\Microsoft.AspNet.FriendlyUrls.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\C# Website\school\school\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\C# Website\school\school\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\C# Website\school\school\bin\Microsoft.ScriptManager.MSAjax.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\C# Website\school\school\bin\Microsoft.ScriptManager.WebForms.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\C# Website\school\school\bin\Microsoft.Web.Infrastructure.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\C# Website\school\school\bin\Newtonsoft.Json.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\C# Website\school\school\bin\System.Web.Optimization.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\C# Website\school\school\bin\WebGrease.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\C# Website\school\school\bin\System.Web.Optimization.xml
+G:\Users\RollCage X\Desktop\ProjectWork\C#\C# Website\school\school\bin\Newtonsoft.Json.xml
+G:\Users\RollCage X\Desktop\ProjectWork\C#\C# Website\school\school\bin\Antlr3.Runtime.pdb
+G:\Users\RollCage X\Desktop\ProjectWork\C#\C# Website\school\school\bin\Microsoft.AspNet.FriendlyUrls.xml
+G:\Users\RollCage X\Desktop\ProjectWork\C#\C# Website\school\school\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Users\RollCage X\Desktop\ProjectWork\C#\C# Website\school\school\obj\Debug\school.csproj.CopyComplete
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project Web\school\school\bin\school.dll.config
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project Web\school\school\bin\school.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project Web\school\school\bin\school.pdb
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project Web\school\school\bin\roslyn\csc.exe
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project Web\school\school\bin\roslyn\csc.exe.config
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project Web\school\school\bin\roslyn\csc.rsp
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project Web\school\school\bin\roslyn\csi.exe
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project Web\school\school\bin\roslyn\csi.exe.config
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project Web\school\school\bin\roslyn\csi.rsp
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project Web\school\school\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project Web\school\school\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project Web\school\school\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project Web\school\school\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project Web\school\school\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project Web\school\school\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project Web\school\school\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project Web\school\school\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project Web\school\school\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project Web\school\school\bin\roslyn\Microsoft.Managed.Core.targets
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project Web\school\school\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project Web\school\school\bin\roslyn\System.AppContext.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project Web\school\school\bin\roslyn\System.Collections.Immutable.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project Web\school\school\bin\roslyn\System.Console.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project Web\school\school\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project Web\school\school\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project Web\school\school\bin\roslyn\System.IO.Compression.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project Web\school\school\bin\roslyn\System.IO.FileSystem.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project Web\school\school\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project Web\school\school\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project Web\school\school\bin\roslyn\System.IO.Pipes.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project Web\school\school\bin\roslyn\System.Reflection.Metadata.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project Web\school\school\bin\roslyn\System.Security.AccessControl.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project Web\school\school\bin\roslyn\System.Security.Claims.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project Web\school\school\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project Web\school\school\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project Web\school\school\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project Web\school\school\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project Web\school\school\bin\roslyn\System.Security.Principal.Windows.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project Web\school\school\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project Web\school\school\bin\roslyn\System.ValueTuple.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project Web\school\school\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project Web\school\school\bin\roslyn\System.Xml.XmlDocument.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project Web\school\school\bin\roslyn\System.Xml.XPath.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project Web\school\school\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project Web\school\school\bin\roslyn\vbc.exe
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project Web\school\school\bin\roslyn\vbc.exe.config
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project Web\school\school\bin\roslyn\vbc.rsp
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project Web\school\school\bin\roslyn\VBCSCompiler.exe
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project Web\school\school\bin\roslyn\VBCSCompiler.exe.config
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project Web\school\school\bin\Antlr3.Runtime.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project Web\school\school\bin\AspNet.ScriptManager.bootstrap.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project Web\school\school\bin\AspNet.ScriptManager.jQuery.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project Web\school\school\bin\Microsoft.AspNet.FriendlyUrls.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project Web\school\school\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project Web\school\school\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project Web\school\school\bin\Microsoft.ScriptManager.MSAjax.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project Web\school\school\bin\Microsoft.ScriptManager.WebForms.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project Web\school\school\bin\Microsoft.Web.Infrastructure.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project Web\school\school\bin\Newtonsoft.Json.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project Web\school\school\bin\System.Web.Optimization.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project Web\school\school\bin\WebGrease.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project Web\school\school\bin\System.Web.Optimization.xml
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project Web\school\school\bin\Newtonsoft.Json.xml
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project Web\school\school\bin\Antlr3.Runtime.pdb
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project Web\school\school\bin\Microsoft.AspNet.FriendlyUrls.xml
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project Web\school\school\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project Web\school\school\obj\Debug\school.csprojAssemblyReference.cache
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project Web\school\school\obj\Debug\school.csproj.CoreCompileInputs.cache
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project Web\school\school\obj\Debug\school.csproj.CopyComplete
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project Web\school\school\obj\Debug\school.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Project Web\school\school\obj\Debug\school.pdb
+G:\Users\RollCage X\Desktop\SaveWeb\Project Web\school\school\bin\school.dll.config
+G:\Users\RollCage X\Desktop\SaveWeb\Project Web\school\school\bin\school.dll
+G:\Users\RollCage X\Desktop\SaveWeb\Project Web\school\school\bin\school.pdb
+G:\Users\RollCage X\Desktop\SaveWeb\Project Web\school\school\bin\roslyn\csc.exe
+G:\Users\RollCage X\Desktop\SaveWeb\Project Web\school\school\bin\roslyn\csc.exe.config
+G:\Users\RollCage X\Desktop\SaveWeb\Project Web\school\school\bin\roslyn\csc.rsp
+G:\Users\RollCage X\Desktop\SaveWeb\Project Web\school\school\bin\roslyn\csi.exe
+G:\Users\RollCage X\Desktop\SaveWeb\Project Web\school\school\bin\roslyn\csi.exe.config
+G:\Users\RollCage X\Desktop\SaveWeb\Project Web\school\school\bin\roslyn\csi.rsp
+G:\Users\RollCage X\Desktop\SaveWeb\Project Web\school\school\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Users\RollCage X\Desktop\SaveWeb\Project Web\school\school\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Users\RollCage X\Desktop\SaveWeb\Project Web\school\school\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Users\RollCage X\Desktop\SaveWeb\Project Web\school\school\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Users\RollCage X\Desktop\SaveWeb\Project Web\school\school\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Users\RollCage X\Desktop\SaveWeb\Project Web\school\school\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Users\RollCage X\Desktop\SaveWeb\Project Web\school\school\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Users\RollCage X\Desktop\SaveWeb\Project Web\school\school\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Users\RollCage X\Desktop\SaveWeb\Project Web\school\school\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Users\RollCage X\Desktop\SaveWeb\Project Web\school\school\bin\roslyn\Microsoft.Managed.Core.targets
+G:\Users\RollCage X\Desktop\SaveWeb\Project Web\school\school\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Users\RollCage X\Desktop\SaveWeb\Project Web\school\school\bin\roslyn\System.AppContext.dll
+G:\Users\RollCage X\Desktop\SaveWeb\Project Web\school\school\bin\roslyn\System.Collections.Immutable.dll
+G:\Users\RollCage X\Desktop\SaveWeb\Project Web\school\school\bin\roslyn\System.Console.dll
+G:\Users\RollCage X\Desktop\SaveWeb\Project Web\school\school\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\Users\RollCage X\Desktop\SaveWeb\Project Web\school\school\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Users\RollCage X\Desktop\SaveWeb\Project Web\school\school\bin\roslyn\System.IO.Compression.dll
+G:\Users\RollCage X\Desktop\SaveWeb\Project Web\school\school\bin\roslyn\System.IO.FileSystem.dll
+G:\Users\RollCage X\Desktop\SaveWeb\Project Web\school\school\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\Users\RollCage X\Desktop\SaveWeb\Project Web\school\school\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\Users\RollCage X\Desktop\SaveWeb\Project Web\school\school\bin\roslyn\System.IO.Pipes.dll
+G:\Users\RollCage X\Desktop\SaveWeb\Project Web\school\school\bin\roslyn\System.Reflection.Metadata.dll
+G:\Users\RollCage X\Desktop\SaveWeb\Project Web\school\school\bin\roslyn\System.Security.AccessControl.dll
+G:\Users\RollCage X\Desktop\SaveWeb\Project Web\school\school\bin\roslyn\System.Security.Claims.dll
+G:\Users\RollCage X\Desktop\SaveWeb\Project Web\school\school\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\Users\RollCage X\Desktop\SaveWeb\Project Web\school\school\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\Users\RollCage X\Desktop\SaveWeb\Project Web\school\school\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\Users\RollCage X\Desktop\SaveWeb\Project Web\school\school\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\Users\RollCage X\Desktop\SaveWeb\Project Web\school\school\bin\roslyn\System.Security.Principal.Windows.dll
+G:\Users\RollCage X\Desktop\SaveWeb\Project Web\school\school\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\Users\RollCage X\Desktop\SaveWeb\Project Web\school\school\bin\roslyn\System.ValueTuple.dll
+G:\Users\RollCage X\Desktop\SaveWeb\Project Web\school\school\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\Users\RollCage X\Desktop\SaveWeb\Project Web\school\school\bin\roslyn\System.Xml.XmlDocument.dll
+G:\Users\RollCage X\Desktop\SaveWeb\Project Web\school\school\bin\roslyn\System.Xml.XPath.dll
+G:\Users\RollCage X\Desktop\SaveWeb\Project Web\school\school\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\Users\RollCage X\Desktop\SaveWeb\Project Web\school\school\bin\roslyn\vbc.exe
+G:\Users\RollCage X\Desktop\SaveWeb\Project Web\school\school\bin\roslyn\vbc.exe.config
+G:\Users\RollCage X\Desktop\SaveWeb\Project Web\school\school\bin\roslyn\vbc.rsp
+G:\Users\RollCage X\Desktop\SaveWeb\Project Web\school\school\bin\roslyn\VBCSCompiler.exe
+G:\Users\RollCage X\Desktop\SaveWeb\Project Web\school\school\bin\roslyn\VBCSCompiler.exe.config
+G:\Users\RollCage X\Desktop\SaveWeb\Project Web\school\school\bin\Antlr3.Runtime.dll
+G:\Users\RollCage X\Desktop\SaveWeb\Project Web\school\school\bin\AspNet.ScriptManager.bootstrap.dll
+G:\Users\RollCage X\Desktop\SaveWeb\Project Web\school\school\bin\AspNet.ScriptManager.jQuery.dll
+G:\Users\RollCage X\Desktop\SaveWeb\Project Web\school\school\bin\Microsoft.AspNet.FriendlyUrls.dll
+G:\Users\RollCage X\Desktop\SaveWeb\Project Web\school\school\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+G:\Users\RollCage X\Desktop\SaveWeb\Project Web\school\school\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Users\RollCage X\Desktop\SaveWeb\Project Web\school\school\bin\Microsoft.ScriptManager.MSAjax.dll
+G:\Users\RollCage X\Desktop\SaveWeb\Project Web\school\school\bin\Microsoft.ScriptManager.WebForms.dll
+G:\Users\RollCage X\Desktop\SaveWeb\Project Web\school\school\bin\Microsoft.Web.Infrastructure.dll
+G:\Users\RollCage X\Desktop\SaveWeb\Project Web\school\school\bin\Newtonsoft.Json.dll
+G:\Users\RollCage X\Desktop\SaveWeb\Project Web\school\school\bin\System.Web.Optimization.dll
+G:\Users\RollCage X\Desktop\SaveWeb\Project Web\school\school\bin\WebGrease.dll
+G:\Users\RollCage X\Desktop\SaveWeb\Project Web\school\school\bin\System.Web.Optimization.xml
+G:\Users\RollCage X\Desktop\SaveWeb\Project Web\school\school\bin\Newtonsoft.Json.xml
+G:\Users\RollCage X\Desktop\SaveWeb\Project Web\school\school\bin\Antlr3.Runtime.pdb
+G:\Users\RollCage X\Desktop\SaveWeb\Project Web\school\school\bin\Microsoft.AspNet.FriendlyUrls.xml
+G:\Users\RollCage X\Desktop\SaveWeb\Project Web\school\school\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Users\RollCage X\Desktop\SaveWeb\Project Web\school\school\obj\Debug\school.csprojAssemblyReference.cache
+G:\Users\RollCage X\Desktop\SaveWeb\Project Web\school\school\obj\Debug\school.csproj.CoreCompileInputs.cache
+G:\Users\RollCage X\Desktop\SaveWeb\Project Web\school\school\obj\Debug\school.csproj.CopyComplete
+G:\Users\RollCage X\Desktop\SaveWeb\Project Web\school\school\obj\Debug\school.dll
+G:\Users\RollCage X\Desktop\SaveWeb\Project Web\school\school\obj\Debug\school.pdb
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\SaveWeb\Project Web\school\school\bin\school.dll.config
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\SaveWeb\Project Web\school\school\bin\school.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\SaveWeb\Project Web\school\school\bin\school.pdb
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\SaveWeb\Project Web\school\school\bin\roslyn\csc.exe
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\SaveWeb\Project Web\school\school\bin\roslyn\csc.exe.config
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\SaveWeb\Project Web\school\school\bin\roslyn\csc.rsp
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\SaveWeb\Project Web\school\school\bin\roslyn\csi.exe
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\SaveWeb\Project Web\school\school\bin\roslyn\csi.exe.config
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\SaveWeb\Project Web\school\school\bin\roslyn\csi.rsp
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\SaveWeb\Project Web\school\school\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\SaveWeb\Project Web\school\school\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\SaveWeb\Project Web\school\school\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\SaveWeb\Project Web\school\school\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\SaveWeb\Project Web\school\school\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\SaveWeb\Project Web\school\school\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\SaveWeb\Project Web\school\school\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\SaveWeb\Project Web\school\school\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\SaveWeb\Project Web\school\school\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\SaveWeb\Project Web\school\school\bin\roslyn\Microsoft.Managed.Core.targets
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\SaveWeb\Project Web\school\school\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\SaveWeb\Project Web\school\school\bin\roslyn\System.AppContext.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\SaveWeb\Project Web\school\school\bin\roslyn\System.Collections.Immutable.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\SaveWeb\Project Web\school\school\bin\roslyn\System.Console.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\SaveWeb\Project Web\school\school\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\SaveWeb\Project Web\school\school\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\SaveWeb\Project Web\school\school\bin\roslyn\System.IO.Compression.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\SaveWeb\Project Web\school\school\bin\roslyn\System.IO.FileSystem.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\SaveWeb\Project Web\school\school\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\SaveWeb\Project Web\school\school\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\SaveWeb\Project Web\school\school\bin\roslyn\System.IO.Pipes.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\SaveWeb\Project Web\school\school\bin\roslyn\System.Reflection.Metadata.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\SaveWeb\Project Web\school\school\bin\roslyn\System.Security.AccessControl.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\SaveWeb\Project Web\school\school\bin\roslyn\System.Security.Claims.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\SaveWeb\Project Web\school\school\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\SaveWeb\Project Web\school\school\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\SaveWeb\Project Web\school\school\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\SaveWeb\Project Web\school\school\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\SaveWeb\Project Web\school\school\bin\roslyn\System.Security.Principal.Windows.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\SaveWeb\Project Web\school\school\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\SaveWeb\Project Web\school\school\bin\roslyn\System.ValueTuple.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\SaveWeb\Project Web\school\school\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\SaveWeb\Project Web\school\school\bin\roslyn\System.Xml.XmlDocument.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\SaveWeb\Project Web\school\school\bin\roslyn\System.Xml.XPath.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\SaveWeb\Project Web\school\school\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\SaveWeb\Project Web\school\school\bin\roslyn\vbc.exe
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\SaveWeb\Project Web\school\school\bin\roslyn\vbc.exe.config
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\SaveWeb\Project Web\school\school\bin\roslyn\vbc.rsp
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\SaveWeb\Project Web\school\school\bin\roslyn\VBCSCompiler.exe
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\SaveWeb\Project Web\school\school\bin\roslyn\VBCSCompiler.exe.config
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\SaveWeb\Project Web\school\school\bin\Antlr3.Runtime.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\SaveWeb\Project Web\school\school\bin\AspNet.ScriptManager.bootstrap.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\SaveWeb\Project Web\school\school\bin\AspNet.ScriptManager.jQuery.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\SaveWeb\Project Web\school\school\bin\Microsoft.AspNet.FriendlyUrls.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\SaveWeb\Project Web\school\school\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\SaveWeb\Project Web\school\school\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\SaveWeb\Project Web\school\school\bin\Microsoft.ScriptManager.MSAjax.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\SaveWeb\Project Web\school\school\bin\Microsoft.ScriptManager.WebForms.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\SaveWeb\Project Web\school\school\bin\Microsoft.Web.Infrastructure.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\SaveWeb\Project Web\school\school\bin\Newtonsoft.Json.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\SaveWeb\Project Web\school\school\bin\System.Web.Optimization.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\SaveWeb\Project Web\school\school\bin\WebGrease.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\SaveWeb\Project Web\school\school\bin\System.Web.Optimization.xml
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\SaveWeb\Project Web\school\school\bin\Newtonsoft.Json.xml
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\SaveWeb\Project Web\school\school\bin\Antlr3.Runtime.pdb
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\SaveWeb\Project Web\school\school\bin\Microsoft.AspNet.FriendlyUrls.xml
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\SaveWeb\Project Web\school\school\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\SaveWeb\Project Web\school\school\obj\Debug\school.csprojAssemblyReference.cache
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\SaveWeb\Project Web\school\school\obj\Debug\school.csproj.CoreCompileInputs.cache
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\SaveWeb\Project Web\school\school\obj\Debug\school.csproj.CopyComplete
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\SaveWeb\Project Web\school\school\obj\Debug\school.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\SaveWeb\Project Web\school\school\obj\Debug\school.pdb
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\school\bin\school.dll.config
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\school\bin\school.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\school\bin\school.pdb
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\school\bin\roslyn\csc.exe
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\school\bin\roslyn\csc.exe.config
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\school\bin\roslyn\csc.rsp
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\school\bin\roslyn\csi.exe
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\school\bin\roslyn\csi.exe.config
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\school\bin\roslyn\csi.rsp
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\school\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\school\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\school\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\school\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\school\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\school\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\school\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\school\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\school\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\school\bin\roslyn\Microsoft.Managed.Core.targets
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\school\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\school\bin\roslyn\System.AppContext.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\school\bin\roslyn\System.Collections.Immutable.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\school\bin\roslyn\System.Console.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\school\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\school\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\school\bin\roslyn\System.IO.Compression.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\school\bin\roslyn\System.IO.FileSystem.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\school\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\school\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\school\bin\roslyn\System.IO.Pipes.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\school\bin\roslyn\System.Reflection.Metadata.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\school\bin\roslyn\System.Security.AccessControl.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\school\bin\roslyn\System.Security.Claims.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\school\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\school\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\school\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\school\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\school\bin\roslyn\System.Security.Principal.Windows.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\school\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\school\bin\roslyn\System.ValueTuple.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\school\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\school\bin\roslyn\System.Xml.XmlDocument.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\school\bin\roslyn\System.Xml.XPath.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\school\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\school\bin\roslyn\vbc.exe
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\school\bin\roslyn\vbc.exe.config
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\school\bin\roslyn\vbc.rsp
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\school\bin\roslyn\VBCSCompiler.exe
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\school\bin\roslyn\VBCSCompiler.exe.config
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\school\bin\Antlr3.Runtime.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\school\bin\AspNet.ScriptManager.bootstrap.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\school\bin\AspNet.ScriptManager.jQuery.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\school\bin\Microsoft.AspNet.FriendlyUrls.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\school\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\school\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\school\bin\Microsoft.ScriptManager.MSAjax.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\school\bin\Microsoft.ScriptManager.WebForms.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\school\bin\Microsoft.Web.Infrastructure.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\school\bin\Newtonsoft.Json.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\school\bin\System.Web.Optimization.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\school\bin\WebGrease.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\school\bin\System.Web.Optimization.xml
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\school\bin\Newtonsoft.Json.xml
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\school\bin\Antlr3.Runtime.pdb
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\school\bin\Microsoft.AspNet.FriendlyUrls.xml
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\school\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\school\obj\Debug\school.csprojAssemblyReference.cache
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\school\obj\Debug\school.csproj.CoreCompileInputs.cache
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\school\obj\Debug\school.csproj.CopyComplete
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\school\obj\Debug\school.dll
+G:\Users\RollCage X\Desktop\ProjectWork\C#\Website\school\obj\Debug\school.pdb
+G:\Users\RollCage X\Desktop\ProjectWork\SchoolProject\C#\Website\school\bin\school.dll.config
+G:\Users\RollCage X\Desktop\ProjectWork\SchoolProject\C#\Website\school\bin\school.dll
+G:\Users\RollCage X\Desktop\ProjectWork\SchoolProject\C#\Website\school\bin\school.pdb
+G:\Users\RollCage X\Desktop\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\csc.exe
+G:\Users\RollCage X\Desktop\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\csc.exe.config
+G:\Users\RollCage X\Desktop\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\csc.rsp
+G:\Users\RollCage X\Desktop\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\csi.exe
+G:\Users\RollCage X\Desktop\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\csi.exe.config
+G:\Users\RollCage X\Desktop\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\csi.rsp
+G:\Users\RollCage X\Desktop\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Users\RollCage X\Desktop\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Users\RollCage X\Desktop\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Users\RollCage X\Desktop\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Users\RollCage X\Desktop\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Users\RollCage X\Desktop\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Users\RollCage X\Desktop\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Users\RollCage X\Desktop\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Users\RollCage X\Desktop\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Users\RollCage X\Desktop\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\Microsoft.Managed.Core.targets
+G:\Users\RollCage X\Desktop\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Users\RollCage X\Desktop\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.AppContext.dll
+G:\Users\RollCage X\Desktop\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Collections.Immutable.dll
+G:\Users\RollCage X\Desktop\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Console.dll
+G:\Users\RollCage X\Desktop\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\Users\RollCage X\Desktop\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Users\RollCage X\Desktop\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.IO.Compression.dll
+G:\Users\RollCage X\Desktop\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.IO.FileSystem.dll
+G:\Users\RollCage X\Desktop\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\Users\RollCage X\Desktop\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\Users\RollCage X\Desktop\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.IO.Pipes.dll
+G:\Users\RollCage X\Desktop\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Reflection.Metadata.dll
+G:\Users\RollCage X\Desktop\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Security.AccessControl.dll
+G:\Users\RollCage X\Desktop\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Security.Claims.dll
+G:\Users\RollCage X\Desktop\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\Users\RollCage X\Desktop\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\Users\RollCage X\Desktop\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\Users\RollCage X\Desktop\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\Users\RollCage X\Desktop\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Security.Principal.Windows.dll
+G:\Users\RollCage X\Desktop\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\Users\RollCage X\Desktop\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.ValueTuple.dll
+G:\Users\RollCage X\Desktop\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\Users\RollCage X\Desktop\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Xml.XmlDocument.dll
+G:\Users\RollCage X\Desktop\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Xml.XPath.dll
+G:\Users\RollCage X\Desktop\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\Users\RollCage X\Desktop\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\vbc.exe
+G:\Users\RollCage X\Desktop\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\vbc.exe.config
+G:\Users\RollCage X\Desktop\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\vbc.rsp
+G:\Users\RollCage X\Desktop\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\VBCSCompiler.exe
+G:\Users\RollCage X\Desktop\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\VBCSCompiler.exe.config
+G:\Users\RollCage X\Desktop\ProjectWork\SchoolProject\C#\Website\school\bin\Antlr3.Runtime.dll
+G:\Users\RollCage X\Desktop\ProjectWork\SchoolProject\C#\Website\school\bin\AspNet.ScriptManager.bootstrap.dll
+G:\Users\RollCage X\Desktop\ProjectWork\SchoolProject\C#\Website\school\bin\AspNet.ScriptManager.jQuery.dll
+G:\Users\RollCage X\Desktop\ProjectWork\SchoolProject\C#\Website\school\bin\Microsoft.AspNet.FriendlyUrls.dll
+G:\Users\RollCage X\Desktop\ProjectWork\SchoolProject\C#\Website\school\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+G:\Users\RollCage X\Desktop\ProjectWork\SchoolProject\C#\Website\school\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Users\RollCage X\Desktop\ProjectWork\SchoolProject\C#\Website\school\bin\Microsoft.ScriptManager.MSAjax.dll
+G:\Users\RollCage X\Desktop\ProjectWork\SchoolProject\C#\Website\school\bin\Microsoft.ScriptManager.WebForms.dll
+G:\Users\RollCage X\Desktop\ProjectWork\SchoolProject\C#\Website\school\bin\Microsoft.Web.Infrastructure.dll
+G:\Users\RollCage X\Desktop\ProjectWork\SchoolProject\C#\Website\school\bin\Newtonsoft.Json.dll
+G:\Users\RollCage X\Desktop\ProjectWork\SchoolProject\C#\Website\school\bin\System.Web.Optimization.dll
+G:\Users\RollCage X\Desktop\ProjectWork\SchoolProject\C#\Website\school\bin\WebGrease.dll
+G:\Users\RollCage X\Desktop\ProjectWork\SchoolProject\C#\Website\school\bin\System.Web.Optimization.xml
+G:\Users\RollCage X\Desktop\ProjectWork\SchoolProject\C#\Website\school\bin\Newtonsoft.Json.xml
+G:\Users\RollCage X\Desktop\ProjectWork\SchoolProject\C#\Website\school\bin\Antlr3.Runtime.pdb
+G:\Users\RollCage X\Desktop\ProjectWork\SchoolProject\C#\Website\school\bin\Microsoft.AspNet.FriendlyUrls.xml
+G:\Users\RollCage X\Desktop\ProjectWork\SchoolProject\C#\Website\school\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Users\RollCage X\Desktop\ProjectWork\SchoolProject\C#\Website\school\obj\Debug\school.csprojAssemblyReference.cache
+G:\Users\RollCage X\Desktop\ProjectWork\SchoolProject\C#\Website\school\obj\Debug\school.csproj.CoreCompileInputs.cache
+G:\Users\RollCage X\Desktop\ProjectWork\SchoolProject\C#\Website\school\obj\Debug\school.csproj.CopyComplete
+G:\Users\RollCage X\Desktop\ProjectWork\SchoolProject\C#\Website\school\obj\Debug\school.dll
+G:\Users\RollCage X\Desktop\ProjectWork\SchoolProject\C#\Website\school\obj\Debug\school.pdb
+G:\Users\RollCage X\Desktop\ProjectWork\SchoolProject\C#\Website\school\bin\AjaxControlToolkit.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\school.dll.config
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\school.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\school.pdb
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\csc.exe
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\csc.exe.config
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\csc.rsp
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\csi.exe
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\csi.exe.config
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\csi.rsp
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\Microsoft.Managed.Core.targets
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.AppContext.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Collections.Immutable.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Console.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.IO.Compression.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.IO.FileSystem.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.IO.Pipes.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Reflection.Metadata.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Security.AccessControl.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Security.Claims.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Security.Principal.Windows.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.ValueTuple.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Xml.XmlDocument.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Xml.XPath.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\vbc.exe
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\vbc.exe.config
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\vbc.rsp
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\VBCSCompiler.exe
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\VBCSCompiler.exe.config
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\Antlr3.Runtime.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\AspNet.ScriptManager.bootstrap.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\AspNet.ScriptManager.jQuery.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\Microsoft.ScriptManager.WebForms.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\Microsoft.Web.Infrastructure.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\Newtonsoft.Json.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\System.Web.Optimization.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\WebGrease.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\System.Web.Optimization.xml
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\Newtonsoft.Json.xml
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\Antlr3.Runtime.pdb
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\Website\school\obj\Debug\school.csproj.CopyComplete
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\Website\school\obj\Debug\school.dll
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\Website\school\obj\Debug\school.pdb
+F:\MAHMOOD\Projects\ProjectWork\SchoolProject\C#\Website\school\obj\Debug\school.csprojAssemblyReference.cache
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\school.dll.config
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\school.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\school.pdb
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\csc.exe
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\csc.exe.config
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\csc.rsp
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\csi.exe
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\csi.exe.config
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\csi.rsp
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\Microsoft.Managed.Core.targets
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.AppContext.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Collections.Immutable.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Console.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.IO.Compression.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.IO.FileSystem.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.IO.Pipes.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Reflection.Metadata.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Security.AccessControl.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Security.Claims.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Security.Principal.Windows.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.ValueTuple.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Xml.XmlDocument.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Xml.XPath.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\vbc.exe
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\vbc.exe.config
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\vbc.rsp
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\VBCSCompiler.exe
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\VBCSCompiler.exe.config
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\Antlr3.Runtime.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\AspNet.ScriptManager.bootstrap.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\AspNet.ScriptManager.jQuery.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\Microsoft.ScriptManager.WebForms.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\Microsoft.Web.Infrastructure.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\Newtonsoft.Json.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\System.Web.Optimization.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\WebGrease.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\System.Web.Optimization.xml
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\Newtonsoft.Json.xml
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\Antlr3.Runtime.pdb
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\obj\Debug\school.csproj.CopyComplete
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\obj\Debug\school.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\obj\Debug\school.pdb
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\WhatsAppApi.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\Microsoft.IdentityModel.Logging.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\Microsoft.IdentityModel.Tokens.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\System.IdentityModel.Tokens.Jwt.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\Twilio.dll
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\Microsoft.IdentityModel.Tokens.xml
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\System.IdentityModel.Tokens.Jwt.xml
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\Twilio.xml
+F:\MAHMOOD\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\obj\Debug\school.csprojAssemblyReference.cache
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\school.dll.config
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\school.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\school.pdb
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\csc.exe
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\csc.exe.config
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\csc.rsp
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\csi.exe
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\csi.exe.config
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\csi.rsp
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.AppContext.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Console.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.IO.Compression.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.IO.Pipes.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Security.Claims.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.ValueTuple.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Xml.XPath.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\vbc.exe
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\vbc.exe.config
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\vbc.rsp
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\VBCSCompiler.exe
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\Antlr3.Runtime.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\Newtonsoft.Json.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\System.Web.Optimization.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\Twilio.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\WebGrease.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\WhatsAppApi.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\System.Web.Optimization.xml
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\Newtonsoft.Json.xml
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\Twilio.xml
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\Antlr3.Runtime.pdb
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\obj\Debug\school.csprojAssemblyReference.cache
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\obj\Debug\school.csproj.CopyComplete
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\obj\Debug\school.dll
+C:\Users\RollCage\Desktop\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\obj\Debug\school.pdb
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\school.dll.config
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\school.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\school.pdb
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\csc.exe
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\csc.exe.config
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\csc.rsp
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\csi.exe
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\csi.exe.config
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\csi.rsp
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.AppContext.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Collections.Immutable.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Console.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.IO.Compression.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.IO.FileSystem.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.IO.Pipes.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Reflection.Metadata.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Security.AccessControl.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Security.Claims.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.ValueTuple.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Xml.XPath.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\vbc.exe
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\vbc.exe.config
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\vbc.rsp
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\VBCSCompiler.exe
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\roslyn\VBCSCompiler.exe.config
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\Antlr3.Runtime.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\AspNet.ScriptManager.jQuery.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\Microsoft.IdentityModel.Logging.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\Microsoft.IdentityModel.Tokens.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\Microsoft.Web.Infrastructure.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\Newtonsoft.Json.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\System.IdentityModel.Tokens.Jwt.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\System.Web.Optimization.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\Twilio.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\WebGrease.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\WhatsAppApi.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\Microsoft.IdentityModel.Tokens.xml
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\System.IdentityModel.Tokens.Jwt.xml
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\System.Web.Optimization.xml
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\Newtonsoft.Json.xml
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\Twilio.xml
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\Antlr3.Runtime.pdb
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\obj\Debug\school.csproj.CoreCompileInputs.cache
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\obj\Debug\school.csproj.CopyComplete
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\obj\Debug\school.dll
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\obj\Debug\school.pdb
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\bin\school.dll.config
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\bin\school.dll
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\bin\school.pdb
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\bin\roslyn\csc.exe
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\bin\roslyn\csc.exe.config
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\bin\roslyn\csc.rsp
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\bin\roslyn\csi.exe
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\bin\roslyn\csi.exe.config
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\bin\roslyn\csi.rsp
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\bin\roslyn\System.AppContext.dll
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\bin\roslyn\System.Console.dll
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\bin\roslyn\System.IO.Compression.dll
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\bin\roslyn\System.IO.Pipes.dll
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\bin\roslyn\System.Security.Claims.dll
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\bin\roslyn\System.ValueTuple.dll
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\bin\roslyn\System.Xml.XPath.dll
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\bin\roslyn\vbc.exe
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\bin\roslyn\vbc.exe.config
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\bin\roslyn\vbc.rsp
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\bin\roslyn\VBCSCompiler.exe
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\bin\Antlr3.Runtime.dll
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\bin\Newtonsoft.Json.dll
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\bin\System.Web.Optimization.dll
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\bin\Twilio.dll
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\bin\WebGrease.dll
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\bin\WhatsAppApi.dll
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\bin\System.Web.Optimization.xml
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\bin\Newtonsoft.Json.xml
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\bin\Twilio.xml
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\bin\Antlr3.Runtime.pdb
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\obj\Debug\school.csprojAssemblyReference.cache
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\obj\Debug\school.csproj.CoreCompileInputs.cache
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\obj\Debug\school.csproj.CopyComplete
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\obj\Debug\school.dll
+C:\Users\xxtur\OneDrive\Desktop\web\Website\school\obj\Debug\school.pdb
+H:\web\Website\school\bin\school.dll.config
+H:\web\Website\school\bin\school.dll
+H:\web\Website\school\bin\school.pdb
+H:\web\Website\school\bin\roslyn\csc.exe
+H:\web\Website\school\bin\roslyn\csc.exe.config
+H:\web\Website\school\bin\roslyn\csc.rsp
+H:\web\Website\school\bin\roslyn\csi.exe
+H:\web\Website\school\bin\roslyn\csi.exe.config
+H:\web\Website\school\bin\roslyn\csi.rsp
+H:\web\Website\school\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\web\Website\school\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\web\Website\school\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\web\Website\school\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\web\Website\school\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\web\Website\school\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\web\Website\school\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\web\Website\school\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\web\Website\school\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\web\Website\school\bin\roslyn\Microsoft.Managed.Core.targets
+H:\web\Website\school\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\web\Website\school\bin\roslyn\System.AppContext.dll
+H:\web\Website\school\bin\roslyn\System.Collections.Immutable.dll
+H:\web\Website\school\bin\roslyn\System.Console.dll
+H:\web\Website\school\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\web\Website\school\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\web\Website\school\bin\roslyn\System.IO.Compression.dll
+H:\web\Website\school\bin\roslyn\System.IO.FileSystem.dll
+H:\web\Website\school\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\web\Website\school\bin\roslyn\System.IO.Pipes.AccessControl.dll
+H:\web\Website\school\bin\roslyn\System.IO.Pipes.dll
+H:\web\Website\school\bin\roslyn\System.Reflection.Metadata.dll
+H:\web\Website\school\bin\roslyn\System.Security.AccessControl.dll
+H:\web\Website\school\bin\roslyn\System.Security.Claims.dll
+H:\web\Website\school\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\web\Website\school\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\web\Website\school\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\web\Website\school\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\web\Website\school\bin\roslyn\System.Security.Principal.Windows.dll
+H:\web\Website\school\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\web\Website\school\bin\roslyn\System.ValueTuple.dll
+H:\web\Website\school\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\web\Website\school\bin\roslyn\System.Xml.XmlDocument.dll
+H:\web\Website\school\bin\roslyn\System.Xml.XPath.dll
+H:\web\Website\school\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\web\Website\school\bin\roslyn\vbc.exe
+H:\web\Website\school\bin\roslyn\vbc.exe.config
+H:\web\Website\school\bin\roslyn\vbc.rsp
+H:\web\Website\school\bin\roslyn\VBCSCompiler.exe
+H:\web\Website\school\bin\roslyn\VBCSCompiler.exe.config
+H:\web\Website\school\bin\Antlr3.Runtime.dll
+H:\web\Website\school\bin\AspNet.ScriptManager.bootstrap.dll
+H:\web\Website\school\bin\AspNet.ScriptManager.jQuery.dll
+H:\web\Website\school\bin\Microsoft.AspNet.FriendlyUrls.dll
+H:\web\Website\school\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+H:\web\Website\school\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\web\Website\school\bin\Microsoft.IdentityModel.Logging.dll
+H:\web\Website\school\bin\Microsoft.IdentityModel.Tokens.dll
+H:\web\Website\school\bin\Microsoft.ScriptManager.MSAjax.dll
+H:\web\Website\school\bin\Microsoft.ScriptManager.WebForms.dll
+H:\web\Website\school\bin\Microsoft.Web.Infrastructure.dll
+H:\web\Website\school\bin\Newtonsoft.Json.dll
+H:\web\Website\school\bin\System.IdentityModel.Tokens.Jwt.dll
+H:\web\Website\school\bin\System.Web.Optimization.dll
+H:\web\Website\school\bin\Twilio.dll
+H:\web\Website\school\bin\WebGrease.dll
+H:\web\Website\school\bin\WhatsAppApi.dll
+H:\web\Website\school\bin\Microsoft.IdentityModel.Tokens.xml
+H:\web\Website\school\bin\System.IdentityModel.Tokens.Jwt.xml
+H:\web\Website\school\bin\System.Web.Optimization.xml
+H:\web\Website\school\bin\Newtonsoft.Json.xml
+H:\web\Website\school\bin\Twilio.xml
+H:\web\Website\school\bin\Antlr3.Runtime.pdb
+H:\web\Website\school\bin\Microsoft.AspNet.FriendlyUrls.xml
+H:\web\Website\school\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\web\Website\school\obj\Debug\school.csprojAssemblyReference.cache
+H:\web\Website\school\obj\Debug\school.csproj.CoreCompileInputs.cache
+H:\web\Website\school\obj\Debug\school.csproj.CopyComplete
+H:\web\Website\school\obj\Debug\school.dll
+H:\web\Website\school\obj\Debug\school.pdb
+E:\Projects\Projects\ProjectWork\SchoolProject\C#\Website\school\obj\Debug\school.csprojAssemblyReference.cache
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\bin\school.dll.config
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\bin\school.dll
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\bin\school.pdb
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\bin\roslyn\csc.exe
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\bin\roslyn\csc.exe.config
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\bin\roslyn\csc.rsp
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\bin\roslyn\csi.exe
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\bin\roslyn\csi.exe.config
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\bin\roslyn\csi.rsp
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\bin\roslyn\Microsoft.Managed.Core.targets
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\bin\roslyn\System.AppContext.dll
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\bin\roslyn\System.Collections.Immutable.dll
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\bin\roslyn\System.Console.dll
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\bin\roslyn\System.IO.Compression.dll
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\bin\roslyn\System.IO.FileSystem.dll
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\bin\roslyn\System.IO.Pipes.dll
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\bin\roslyn\System.Reflection.Metadata.dll
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\bin\roslyn\System.Security.AccessControl.dll
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\bin\roslyn\System.Security.Claims.dll
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\bin\roslyn\System.Security.Principal.Windows.dll
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\bin\roslyn\System.ValueTuple.dll
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\bin\roslyn\System.Xml.XmlDocument.dll
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\bin\roslyn\System.Xml.XPath.dll
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\bin\roslyn\vbc.exe
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\bin\roslyn\vbc.exe.config
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\bin\roslyn\vbc.rsp
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\bin\roslyn\VBCSCompiler.exe
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\bin\roslyn\VBCSCompiler.exe.config
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\bin\Antlr3.Runtime.dll
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\bin\AspNet.ScriptManager.bootstrap.dll
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\bin\AspNet.ScriptManager.jQuery.dll
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\bin\Microsoft.IdentityModel.Logging.dll
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\bin\Microsoft.IdentityModel.Tokens.dll
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\bin\Microsoft.ScriptManager.WebForms.dll
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\bin\Microsoft.Web.Infrastructure.dll
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\bin\Newtonsoft.Json.dll
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\bin\System.IdentityModel.Tokens.Jwt.dll
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\bin\System.Web.Optimization.dll
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\bin\Twilio.dll
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\bin\WebGrease.dll
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\bin\WhatsAppApi.dll
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\bin\Microsoft.IdentityModel.Tokens.xml
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\bin\System.IdentityModel.Tokens.Jwt.xml
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\bin\System.Web.Optimization.xml
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\bin\Newtonsoft.Json.xml
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\bin\Twilio.xml
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\bin\Antlr3.Runtime.pdb
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\obj\Debug\school.csproj.AssemblyReference.cache
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\obj\Debug\school.csproj.CoreCompileInputs.cache
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\obj\Debug\school.csproj.CopyComplete
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\obj\Debug\school.dll
+E:\MyInfo\Projects\SchoolProject\C#\Website\school\obj\Debug\school.pdb

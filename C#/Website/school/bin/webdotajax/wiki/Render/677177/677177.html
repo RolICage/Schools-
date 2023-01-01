@@ -1,0 +1,22 @@
+<div class="wikidoc">Web.Ajax contains functionality for converting CLI object to and from Json easily.<br /><br />Consider the following class<br /><div style="color:Black;background-color:White;"><pre>
+<span style="color:Blue;">public</span> <span style="color:Blue;">class</span> MyClass
+{
+    <span style="color:Blue;">public</span> <span style="color:Blue;">string</span> String;
+    <span style="color:Blue;">public</span> <span style="color:Blue;">int</span> Number;
+}
+</pre></div><br />To convert to Json<br /><div style="color:Black;background-color:White;"><pre>
+<span style="color:Blue;">var</span> myObject = <span style="color:Blue;">new</span> MyClass()
+{
+    String = <span style="color:#A31515;">&quot;test string&quot;</span>,
+    Number = 5
+};
+	
+<span style="color:Blue;">var</span> jsonString = Web.Ajax.Json.ConvertToJson(myObject);
+</pre></div><br />To convert from Json<br /><div style="color:Black;background-color:White;"><pre>
+<span style="color:Blue;">var</span> jsonString=<span style="color:#A31515;">@&quot;{
+	String: &#39;test string&#39;,
+	Number: 5
+}&quot;</span>;
+			
+<span style="color:Blue;">var</span> myObject = Web.Ajax.Json.ConvertFrom&lt;MyClass&gt;(jsonString);
+</pre></div></div><div class="ClearBoth"></div>
